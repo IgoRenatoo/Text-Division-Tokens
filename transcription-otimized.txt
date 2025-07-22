@@ -1,0 +1,4813 @@
+já está gravando, pessoal. vai estar iniciando o treinamento de LPS, da Splend System. vai seguir agora 13h30 até umas 16h. 16h, 16h30 mais uma parte para discussão, colaboração, tirar dúvida também. E nesse período preparou com muito carinho, pessoal. , para ser muito rico, essa troca de experiência. Onde o Paulinho vai estar colaborando com nessa
+e passando para vocês um pouquinho da experiência dele. É uma pessoa renomada aí na área, tem bastante experiência no assunto,
+domina o tema que vai ministrar hoje. E foi o profissional escolhido pelo PMO, pela Taminal,
+para estar compartilhando esse conteúdo com todo o corpo de planejamento da empresa,
+de planejadores, e poder incorporar ainda mais conhecimento
+na sua tira do nosso trabalho, buscando eficiência, buscando excelência operacional,
+buscando cada vez mais ser relevante e gerar valor para os clientes. , primeiramente, dar boas-vindas para todos. Aqui, se eu for ler o contrato de todo mundo, vou ler todos os contratos,
+porque tem bastante gente, todos os contratos. , agradecer a presença. Muito o engajamento de vocês. Agradeço a todos aí pela presença. Vai ser muito rico esse momento. E eu vou passar a palavra para o Paulinho agora, para dar sequência, dar início aí no treinamento. Fiquem à vontade, á? Para participar, para colaborar da maneira que for melhor aí. O Paulo, ele vai falar um pouquinho disso no começo, como que ele prefere que sejam as colaborações,
+levantar a mão, cortar, ou que seja mais no final. Mas vou deixar à vontade aí para vocês colaborarem e ser um momento mesmo de troca
+e bastante riqueza aí de conteúdo, ?
+Obrigado. Vai lá, Paulinho, segue o barco aí. Parabéns, primeiramente, que seja um treinamento aí bem produtivo, bem rico. ?
+ô de bola, Daniel. , eu gostaria também de agradecer a oportunidade dada aí pela equipe de PMO. Agradecer também à Marina, é, pelo apoio que ela nos deu aí para elaborar esse treinamento,
+a parte da apresentação. , eu acho que sim, esse apoio do PMO, esse evento hoje ão estaria acontecendo. , parabeniza ali toda a equipe pelo trabalho que vem sendo realizado, é,
+nesse apoio que vem sendo dado aí para os equipos de contratos. E é isso aí, pessoal. Eu vou estar apresentando, á?
+E aí, se alguém levantar a mão, aí ão sei se a Marina pode me auxiliar, é, indicando. Pode. É muito provável que eu ão vou conseguir ver, á?
+, vamos iniciar, é?
+Hoje vai falar sobre o Last Planner System, que é o sistema do último planejador. Mas antes eu vou. Deixa eu só. Deixa eu desligar a minha tela aqui, porque eu ô hoje no contrato da McKinney,
+e fica meio que numa área deslocada. E aí, para facilitar. Vamos lá. Primeiramente, para quem ão me conhece, meu nome é Paulo Benatti. Eu sou gerente de contratos. Atualmente eu estou aqui no contrato da McKinney, Araxá. Eu sou engenheiro civil, engenheiro mecânico, engenheiro de segurança de trabalho. Mentor do PMI no capítulo de São Paulo, no projeto Conexão Saberes, que apoia ali organizações civis. Atualmente estou mestrando administração de empresas, em foco financeiro. Também tenho MBA na FGB, na parte de gestão, com ênfase em gerenciamento de projetos. MBA em gestão ágil, também sou PMP, tenho também certificação de PMI e PMU-CP. Também ali como gerente de fundamentos de gerenciamento de produtos. Scrum Foundation, AWP Experts e algumas outras pós aí que fui fazendo no decorrer da minha vida. , estou de Andradina, interior ali de São Paulo, próximo a Três Lagoas. Casado com a Pâmela, pai de quatro filhos, Cauã, Vinícius, Telfo e a Paola. E aí eu ão poderia dimensionar, menos importante, palmeirense roxo. E aí antes que aconteça qualquer manifestação, quem tem mais tem osso. , se contrair aí. , seguindo na apresentação, antes da gente falar de qualquer de metodologia,
+ precisa de entender que a metodologia sozinha, ela ão consegue trazer a mudança. Primeiro tem que entender a cultura organizacional,
+para que a partir daí consiga trazer um processo de mudança. E quando faz esse processo de mudança,
+ depende muito da forma com que as pessoas pensam, quais as suas crenças,
+o que elas acreditam que seja o correto para ser feito ou ão. O modo que a organização está acostumada a fazer,
+e sabe que tem uma variação muito grande,
+que vem deparando aí nos próprios contratos,
+onde a parte estratégica, tica e operacional ão se conversam. E isso aí acaba trazendo muito desafio nessas implantações, nessa mudança cultural. Em alguns ambientes depende de um apoio da alta governança
+para trazer qualquer cultura. E isso é algo que é desafiador na implantação de metodologias, de ferramentas, no nosso dia a dia. Mas o que trouxe aqui?
+A curva de Kimber-Ross, que é uma curva de mudança. E o que ela fala?
+Outro ser humano, ele passa por esses sentimentos quando tira ali das zonas de conforto. Algumas pessoas são um pouco mais maduras e conseguem superar,
+até avançando ali de uma emoção para outra, de uma maneira mais rápida,
+pulando algumas etapas. Mas o que precisa entender?
+Isso é do ser humano, tem que tratar isso aí como base. Quando fala de implantar algo novo, o que tem que pensar?
+A forma com que vai vender isso para quem quer que apoie a nossa ideia. ão é simplesmente chegar ali e querer que a pessoa aceite aquela implantação. precisa primeiro mapear quais são as dores e quais são os benefícios esperados
+por aquela pessoa, por aquele grupo de pessoas. E a partir daí, tem uma condição de definir quais são as nossas funções ou serviços. E o LPS entra dentro de uma função ou de um serviço desse
+para atender alguma expectativa das pessoas ou do grupo de pessoas
+e contando com a melhoria dos ambientes dentro de gestão de projetos. , quando vai vender, tem que entender que
+aquela pessoa precisa de entender qual o benefício, qual o ganho que ela vai ter
+com a aplicação daquilo. Geralmente, as pessoas são reativas e êm um certo bloqueio nessa mudança cultural
+justamente por ão entenderem. Algumas pessoas êm isso por na ciência, são as pessoas que encontra que são muito reativas. Isso aí é o que mais vê dentro de contratos. Outras encontra como entusiastas. e outras pessoas são neutras. , o foco deve ser o quê?
+Quando fazer esse mapeamento de benefícios, quando fazer esse mapeamento de dores,
+entender dentro daquele grupo qual a característica de cada membro. Quais são os apoiadores, quais são os neutros e quais são as pessoas que são reativas ali, a ideia. E aí, precisa trabalhar em cima dessas pessoas, reativas principalmente. De que forma?
+Mostrando os benefícios que elas terão com a aplicação. Isso serve para qualquer metodologia, isso serve para dentro de ambientes de projetos,
+isso serve para a nossa vida pessoal. , tem que levar isso para a mente, é?
+ão ter aquelas âncoras negativas. A sutileza da forma que vende, é?
+Ela vai desde aquela. da forma como aborda, é?
+Aquelas âncoras negativas. Será que ão pode fazer isso?
+Cara, quando fala , um ão, ele já puxa lá a resposta como um ão. , tem que chegar e ser. ter uma âncora ali positiva. pode fazer isso aqui?
+Que aí ele remete mais à ideia do pode, é?
+A resposta ão pode. O que precisa?
+Como que vai fazer?
+, você vê a sutileza que tem que pensar na hora que vende as nossas ideias, é?
+E aí, falando um pouco da cultura organizacional, é o jeito como a empresa funciona. Esse é um conceito um pouco mais amplo, é?
+ um conceito um pouco mais restrito, falando ali nas esferas que geralmente opera, é?
+Na cidade mais operacional. A cultura, ela pode se entender como a forma com que as pessoas entendem que aquilo deve ser feito. E é isso que muda quando implanta aí alguma metodologia. , vou falar um pouco aí, é?
+Dessas reações, desses sentimentos que tem. Primeiro, é?
+As pessoas, elas êm ali uma sensação de foco. Pô, ós vamos usar isso aqui. Eu vou mudar o meu jeito de trabalhar. E é aqui que tem que criar os alinhamentos. Nessa iniciação, se faz muito importante o apoio da autoadministração. O apoio ali de uma gerência, de uma diretoria. Por quê?
+ sabe, é?
+Que quando ão tem ali esse apoio da autoadministração, fica muito difícil
+pra gente manter o patrocínio dessa iniciativa. , precisa de ter esse apoio, principalmente nessa parte de iniciação, onde precisa
+de criar esse alinhamento pra que consiga superar esse momento de choque. E aí, com isso, é?
+Nesse momento aqui, que é o momento inicial, tende muito ali a trazer muita parte
+de teoria pras pessoas. E quando você traz essas teorias, cara, você embanana a cabeça das pessoas, elas ficam
+um pouco mais retraídas, ou ainda mais retraídas, é?
+E aí, isso aí acaba causando ali uma etapa de negação. E aí, ela cai na descrença. Fala, cara, muito burocrático. Isso aí é algo que ão vai funcionar. Quantas vezes escuta, é?
+ão, isso aqui ão funciona aqui. , é o momento de iniciação da nossa iniciativa. precisa ter um cuidado muito grande. Quando entra na fase de frustração, é?
+ precisa maximizar a parte da comunicação aqui. , envolve as pessoas, cria grupos de apoio pra que esse momento ele seja superado. Porém, é?
+Tem pessoas que conseguem pular desse passo de frustração, desse sentimento de frustração,
+já pra parte de experimentação. Outras ão. Outras, elas acabam entrando ali num momento de depressão. Que é o quê?
+ão entendi nada. Isso aqui, ão ô conseguindo enxergar resultado. Isso aqui ão vai dar certo. A pessoa acaba se desmotivando. , esse é o momento que tem que trabalhar muito a parte motivacional das pessoas ou do grupo. De que forma?
+ acaba reconhecendo ali os esforços. E isso aí faz com que as pessoas, o quê?
+ tem uma virada de chave caminhando ali pra parte de experimentação. Na parte de experimentação, é onde tem capacidade de desenvolver ali as pessoas. De ter ali treinamentos mais aprofundados, é?
+Da gente trazer ali conversas. De modo com que as pessoas, elas reflitam adaptações que pode utilizar na metodologia. Uma forma de sensibilizar a metodologia. Uma coisa que eu deixo bem claro, é?
+Quando eu falo, eu vejo muito aí nas redes sociais, é?
+O pessoal falando de AWP, de LPS. E aí também grupos, é?
+De WhatsApp. E aí os experts falando que o cara á aplicando isso e isso. á falando que á aplicando a LPS. á falando que á aplicando a AWP. Gente, tem que ter uma mente situacional. O que precisa de entender?
+Que pra cada dor, pra cada benefício esperado, tem que ter a capacidade de abrir a nossa caixa de ferramenta
+e saber o que pode utilizar naquele momento. Com isso, pode utilizar prações de uma metodologia,
+que é mais fácil inicialmente,
+ou a metodologia ali como modelo inteiro. O que é uma mudança cultural muito grande. E aí acaba tendo ali uma resistência e acaba perdendo patrocínio,
+nem acabando de concluir a implantação
+por conta da desmotivação das pessoas,
+por conta de ser algo realmente burocrático. , tenham em mente que pode, é?
+Colocar uma metodologia ali em todo o processo dela,
+mas que tem que ser situacional. precisa de entender o que o cliente espera,
+pra que possa usar frações de metodologias,
+de maneira ali únicas ou de maneira híbridas,
+pra que consiga atender. O importante é o resultado. O importante é que tenha em mente
+que precisa de ações mais rápidas,
+pra gente ter ali um resultado em curto prazo,
+mas, em paralelo,
+isso aí nos dá a condição de ter ali
+ferramentas, metodologias,
+compensamento mais a médio e longo prazo,
+pra nos dar tempos de pegar,
+estruturar e trabalhar em cima da causa raiz. Se trabalhar só na parte de curto prazo,
+ acaba perdendo patrocínio de longo prazo,
+porque trabalha só pagando incêndio,
+ ão vai na causa raiz. Se trabalhar no médio e longo prazo,
+ perde o patrocínio, é?
+Porque deixa de mostrar um valor rápido
+e quando á pra finalizar,
+pra começar a colher os benefícios,
+acabou que você perdeu ali todo o patrocínio das pessoas,
+as pessoas ão acreditam mais naquele método. , tem que saber dosar isso, á?
+E aí, da parte de experimentação,
+ vai pra decisão. E aí, por fim, a integração,
+vou falar os dois juntos. Esses dois itens consegue
+ter uma maturidade muito alta do time. E aí, com isso,
+ acaba até criando multiplicadores. , são pessoas ali que iniciaram o choque
+e finalizaram acreditando na metodologia. E aí, passam a ser multiplicadores
+e aquilo acaba ficando como uma rotina pro grupo. , seguindo, ,
+aqui, vou falar um pouco sobre esse modelo,
+que é um modelo baseado ali na teoria
+dos quadros estratégicos competentes. E ele descreve ali como cada pessoa
+passa do desconhecimento total, é?
+ nasce aí, é?
+Com total desconhecimento. inicia a nossa carreira
+com desconhecimentos, é?
+E aí, vai galgando ali,
+periodicamente ali, pelo conhecimento
+pra que se torne expert ali,
+se torne pessoas ali com o mínimo de sabedoria
+pra gente desenvolver atividades em determinado nicho. , o que que essa teoria dos quadros estratégicos
+nos fala, é?
+ tem um primeiro momento
+que é a questão da incompetência do inconsciente. Que é aquilo, é?
+Eu ão sei o que tem que fazer. Nesse período, a pessoa, ela ão sabe
+que existe a metodologia,
+ela nem tem conhecimento nenhum daquilo. E quando a pessoa passa a ter um primeiro contato,
+ela passa a ter uma incompetência consciente. Ela sabe que existe aquela metodologia,
+mas ela sabe que ela ão sabe nada sobre ela. , ela vai buscar o quê?
+O aprendizado. E aí, vai pra segunda fase,
+que é a competência da consciente. É a competência consciente, é?
+Que é aquilo ali. sabe fazer,
+mas aí precisa ainda pensar
+em como fazer isso. , a pessoa, ela aprendeu aí essa nova habilidade,
+mas ainda ela precisa ali de apoio,
+ela precisa ali de fazer consultas
+pra que ela consiga aplicar corretamente. E aí, a competência inconsciente. Aqui, é quando começa a fazer, é?
+Aquela metodologia, aquela ferramenta,
+sem perceber. É uma nova habilidade que ela incorporou ali,
+a nossa pessoa,
+e ela flui com total clareza,
+com total fluxo contínuo. Geralmente, as pessoas que atingem esse ível aqui,
+elas já são pessoas que já podem ser multiplicadores. , o que que. Qual a importância da gente entender esse quadro estratégico?
+Esse quadro,
+muitas das vezes,
+ é exposto ali a novos métodos,
+a novas ferramentas,
+e aí já desanima,
+já nos primeiros passos. tem que entender os nossos limites
+e tem que entender qual é a configuração
+nossa como ser humano. , no início, na iniciação,
+ vê muita dificuldade
+quando á aprendendo algo novo. Quando já consegue aplicar aquilo,
+já é algo que vira
+pro sentimento motivacional. Pô, eu sei fazer isso aqui,
+já ô se rolando,
+já ô trazendo todos os resultados. E aí, quando conclui ali,
+como aquela coisa,
+conhecimento da nossa expertise,
+passa ali,
+fazer parte da nossa pessoa,
+isso aí tem ali total prazer
+em compartilhar com as pessoas,
+em compartilhar com os times. Essa é uma ordem lógica
+que tem ali de sair
+pra uma iniciação de algo
+que ão conhece,
+pra algo que já domina
+e consegue ter competência. , transformação,
+ela depende muito de ós,
+como os líderes, é?
+ós somos ali as pessoas
+que puxam essas inovações,
+que puxam os métodos, á?
+Isso aí principalmente
+quando fala, é?
+Do pessoal que considera
+como operacional de campo. Que é o pessoal que é mais dedicado
+à execução,
+a materializar, é?
+Aquele projeto. tem que ter em mente
+que ós precisamos de entender ali
+quais são os processos de melhoria,
+o que tem ali
+pra oferecer como melhoria
+e puxar. vive muitas vezes ali
+no automático
+e acaba que se desmotiva
+por achar que o ambiente ão é propício
+pra gente plantar aí
+qualquer metodologia. Se á desmotivado,
+ós como líderes,
+imagine as pessoas
+que ão êm que pensar
+fora da caixa dessa maneira. fica uma reflexão. , os pilares da transformação,
+o alinhamento,
+o envolvimento de todos
+e o comprometimento. É aquilo. Temos um contrato?
+Temos. tem que pensar
+que o alinhamento tem que ocorrer
+entre todas as esferas,
+envolvendo todas as pessoas
+que fazem parte do processo
+e com isso
+ ter o engajamento
+que é o comprometimento
+e a palavra
+daquilo que se foi acordado. tendo em mente
+essas três palavras,
+entendendo o conceito,
+ consegue entender
+melhor qual a necessidade
+da gente ter
+esse ambiente colaborativo
+envolvendo ali
+tanto executivos
+quanto o pessoal de operação. tem aí
+os principais problemas
+de obras levantadas. , acho que isso aqui
+ faz parte
+do nosso dia a dia. Planejamento inadequado. O quanto vê aí,
+principalmente quando faz
+a gestão de contratadas,
+são planejamentos ali
+que são irreais. O pessoal planeja
+sem nenhum 
+de praticabilidade. pega ali
+problemas lógicos ali
+que são absurdos. O desalinhamento
+entre planejamento
+e execução,
+esse é clássico. vê muito aí
+em questão de contratos,
+principalmente contratados. O cara planeja, planeja,
+planeja, planeja, planeja
+e aí ão tem esse link
+com a execução. Muitas vezes vai lá
+com algum plano de ação,
+uma contratada,
+e aí o cara passa ali
+dia, noite,
+para entregar aquele plano de ação
+porque foi uma exigência
+nossa registrada em ato
+e na hora que ele entrega,
+para ele já cumpriu
+o objetivo dele. Entregou ali o plano de ação
+para ós
+como se fosse ós
+que teremos as pessoas
+que vão executar. , isso é uma coisa
+que o LPS combate muito,
+porque toda essa parte
+de planejamento,
+toda a informação
+era direcionada
+para a base,
+para o último planejador. Projetos desalinhados
+com a execução,
+aqui tem
+um desalinhamento
+entre o que é o negócio
+com o que realmente
+está sendo executado. , pode ter ali
+uma estratégia de negócio
+que visa, ,
+uma medição
+para o fluxo de caixa de empresa,
+digamos ali
+que é,
+está falando agora de pesista. E aí,
+esse projeto,
+esse objetivo
+ão está alinhado
+com a parte da execução. Isso aí é o que mais
+ gera ali
+problemas de fluxo de caixa,
+,
+dentro de empresas. Falha no controle
+de qualidade da execução,
+isso aí é normal,
+ acaba ali
+fazendo na pressa,
+acaba que tem
+programações que são falhas
+e aí com isso
+ causa
+problemas de qualidade. Mudança sem controle,
+gestão de mudança mal feita,
+o famoso ali
+marco de campo
+que o pessoal
+executa por conta própria,
+ão faz controle,
+gera incompatibilidade,
+comunicação ineficiente
+entre equipes,
+isso é outro ponto
+muito forte
+que o LPS combate,
+o LPS é voltado
+para a melhoria
+da comunicação. A comunicação,
+ela é uma das principais
+vilãs que tem
+dentro ali do ambiente
+de projetos. Isso aí vai ver
+à frente. Atraso e falhas
+na logística de materiais,
+totalmente desalinhado
+do que tem
+para fazer de utilização
+na obra. sabe que tem que ter
+aquele conceito
+de just in time,
+mas muitas das vezes
+daí se perde,
+acaba que planeja,
+programa ali,
+atividades,
+e aí a hora que 
+vai fazer o levantamento
+de material. Muitas das vezes ali
+no dia que vai ser aplicado,
+ão está. E aí a parte de mão de obra
+despreparada,
+desconectada com a produção. E aí acaba
+culpando muito o pessoal
+da operação por isso,
+quando 
+eles são vistos
+como plenos detectores,
+ão como parte do processo. eles trabalham
+muitas das vezes
+no automático. Eles ão estão alinhados,
+ão se sentem parte do processo,
+ão tem ali um compromisso,
+ão tem engajamento,
+justamente por isso. E aí contudo
+reflete a parte
+de segurança do trabalho. sabe ali que
+quando ão tem ali
+um tratamento efetivo,
+principalmente ali
+desse grupo de falhas,
+ traz também ali
+um aumento de risco
+para a parte de segurança. E aí entender
+a questão ali do custo,
+que uma comunicação
+unificada traz,
+ segundo ali
+um estudo ali
+feito pelo PMI,
+que é o papel essencial
+da comunicação,
+ela traz que para cada
+um bilhão investido
+em projeto,
+ tem 135 milhões
+em risco devido
+a falhas na execução. E dessas,
+75 milhões,
+que valem 56%,
+eles são relacionados
+à falha de comunicação. O PMI,
+ele fala que o gestor,
+o líder,
+ele passa ali praticamente
+90% do dia dele,
+trabalhando com comunicação. ,
+muitas das vezes,
+esse mesmo objetivo,
+ele ão desce
+para as outras esferas. O pessoal simplesmente,
+cada um trabalha ali
+na sua ilha,
+e aquele trabalho
+ele fica represado. ão se passa para frente,
+ ão tem oportunidade
+ali de trazer junto
+ali com outras áreas,
+para que consiga
+mapear possíveis riscos,
+impedimentos,
+ter oportunidade também
+de pensar em modelos
+construtivos diferentes. a comunicação
+dentro de projeto,
+ela é tudo. E o LPS como sistema,
+é um dos pilares muito fortes
+que ele traz,
+que é essa comunicação,
+que ela vem cascateada,
+top down. Ainda falando de comunicação,
+como fator crítico,
+ tem que,
+projetos que êm uma comunicação
+altamente eficaz,
+eles conseguem atingir
+os objetivos originais
+em 80%,
+enquanto projetos
+que são minimamente eficazes
+em relação à comunicação,
+52%. No prazo,
+ tem uma relação
+de 71% para 37%,
+e dentro do orçamento,
+76% para 48%. vê
+a importância que tem
+na comunicação,
+a importância que tem
+de levar os nossos planos
+para todas as emperas,
+e principalmente para quem
+executa o trabalho final. E aí, pessoal,
+quem nunca, é?
+ tem a primeira charge aqui,
+onde tem duas pessoas,
+e as duas pessoas fazendo
+a mesma tarefa. Isso aí eu acho que
+todo mundo já deve ter passado
+por isso, é?
+É algo que a falta de comunicação
+nos leva a isso. Acaba que tem
+o retrabalho,
+acaba que tem ali
+multitarefas ali,
+poderiam ser executadas
+por uma pessoa,
+e estar sendo executadas
+por um, dois, três pessoas,
+e tem um problema maior, é?
+O problema é quando 
+pega e entrega, ,
+duas planilhas de controle
+numa situação dessa,
+e as duas planilhas
+mostram diferença, é?
+ já mostra também
+que os dados ali também
+ão estão bem clássicos,
+bem estruturados. E aí, essa charge de baixo
+fica uma reflexão, é?
+Onde tem ali
+um operário que vai se aposentar,
+e aí ele ão faz nem ideia
+do que tem no final da linha, é?
+Ele quer descobrir isso aí
+depois de 30 anos de trabalho. Alguém aí se habilita
+a fazer uma anamnese aí
+dessa charge,
+e aí poder nos explicar aí
+sobre isso,
+fazer alguma coisa de rotina
+que vocês já presenciaram
+do dia a dia,
+que ão tem clareza
+no papel aí,
+em relação ali
+a todo o processo. sentisse que é só aquela parcela
+que você vai executar,
+e acabou. É igual a charge também, é?
+Do ovo com o porco, é?
+Ser uma galinha,
+o ovo com o porco,
+ão a galinha com o porco,
+ser uma galinha que só chega lá
+e plantar,
+e ser o porco,
+que vai lá e faz parte do processo. fica uma reflexão,
+alguém se habilita?
+Ah, pessoal,
+vamos participar,
+fazer a dinâmica. Ninguém?
+Vou me habilitar aqui. ,
+essa charge aí,
+as duas, é?
+Elas tem muito a dizer aí
+com a redundância ali,
+às vezes ão sabe
+o que que outra pessoa
+á fazendo,
+e no final das contas ali,
+quando você vai pra uma reunião
+de planejamento,
+ou outra reunião do ,
+você acaba que tem várias pessoas
+fazendo a mesma coisa,
+sendo que se houvesse
+uma comunicação melhor,
+ conseguiria
+otimizar esse processo, é?
+ é bem icônica e real. E na segunda também,
+é uma coisa que parece
+que meio que é aquela síndrome
+de Gabriel, é?
+Ela se é ,
+vou morrer ,
+e aí o cara só quer saber
+de fazer aquilo ali mesmo,
+ão, meu papel é só esse,
+ão me interessa o que acontece
+no final da linha,
+e aí quando eu fui embora,
+vou dar uma passadinha lá
+pra saber. E eu enxerguei mais ou menos , é?
+. Acho que foi muito bem pontuado,
+e pra segunda charge,
+eu até esperava que você ia
+ter essa visão dessa forma. É a visão que tem,
+principalmente com o pessoal
+que á no chão de fábrica. pensa que
+eles que ão querem saber,
+eles que querem só ir ali
+e fazer o dele,
+e acabou. Quando ,
+é que muitos profissionais,
+eles acabam executando
+suas atividades,
+principalmente sem compreender
+o impacto do trabalho
+no restante de todo o fluxo. isso aí acaba
+que ão cria o engajamento. E essa é a visão
+que tem das pessoas. Visão totalmente errada. ós, muitas vezes ali
+que estamos em uma outra esfera,
+que é uma esfera que pensam,
+por ter essa visão,
+ acaba
+ão envolvendo o pessoal
+dentro do processo,
+e eles agem dessa forma,
+agem no automático. ,
+como que pode esperar
+uma colaboração e melhoria
+dessas pessoas ali,
+se elas ão sabem
+nem pra onde
+o trabalho dela vai,
+nem aonde o trabalho dela
+se encaixa?
+?
+E isso é algo
+que o LPS combate. Por quê?
+O LPS,
+ trabalha
+para essas pessoas,
+para que eles se sintam
+parte do processo. Porque geralmente,
+geralmente ão,
+são eles que fazem
+a materialização ali
+do projeto. precisa
+de ter essa mudança de chave,
+ão enxergar o pessoal
+da base dessa forma,
+mas trazer ele pro time,
+trazer eles pra ter,
+eles tem que ser as pessoas
+que tem que ter ali
+aquele compromisso,
+que foi ali programado
+pra semana. É eles que tem que falar ,
+temos um contrato. fica uma reflexão,
+pra gente pensar
+aí de uma forma diferente. E aí pessoal,
+falando do sistema tradicional
+em relação ao LPS,
+ tem uma pirâmide
+onde ela mostra que
+no sistema tradicional
+ela é voltada
+pra atender o gerente. É o que faz,
+ á o tempo inteiro
+ali metindo relatório
+pra mandar pra cima. ,
+o LPS,
+ele tem uma visão diferente
+nesse caso. O LPS,
+ele é voltado pra atender
+e capacitar o último planejador,
+que é a base. Teoricamente,
+quem á no topo,
+ele já detém a informação. O que ele precisa ali
+é uma retroalimentação
+pra que ele tome decisões. O que faz
+no dia a dia é
+levar essas informações
+da base
+para o gerente
+pra se tomar decisão. Porém,
+ ão envolve a base
+pra gente fazer
+um deslobramento estratégico
+com aquilo que senta ali
+dentro de uma sala de reunião
+e conversa. Ó,
+esse é o caminho
+que vai fazer. Esse aqui é o plano de ataque. Esse aqui é o clonograma. ão é claro pra gente
+que isso aí faz parte
+do nosso dia a dia. Quantas pessoas ali
+que trabalham dessa forma?
+Isso aí ão é uma coisa
+incomum da gente ver, é?
+ ,
+os gerentes,
+o coordenador,
+os engenheiros,
+o que eles fazem?
+Eles fazem ali os planos
+e empurram ível baixo. E aí,
+aquilo que eu falei,
+até a reflexão do slide anterior,
+ela remeteu a isso, é?
+Que acaba que ali
+que os encarregados,
+eles são meros executores. E aí,
+ acaba ão colocando eles
+nessa parte de planejamento
+e muito menos
+ chegando ali
+com uma informação
+de clareza pra eles. E aí é o que traz, é?
+Essa falta de engajamento
+dessa base operacional. Alguém discorda?
+Alguém quer trazer alguma coisa
+em relação a esse sentido?
+Eu vejo que,
+com isso,
+muitas pessoas se identificaram
+disso no dia a dia. Alguém fala?
+Foi ele, pô. Tchau, o microfone aberto,
+?
+Isso é,
+Leonardo aqui. Isso é,
+o primeiro modelo de pirâmide ali,
+ele é bastante pertinente
+e é muito difícil
+de você mudar,
+é?
+Aquele de tratativa
+que as pessoas dão
+com relação ao atendimento
+das demandas. Eles esquecem muito
+a questão da necessidade
+de confiabilidade
+do processo
+pra atender
+uma expectativa,
+uma aparência, é?
+De alguém que á acima
+da classificação hierárquica. Até pra poder garantir
+diversas coisas
+que eles entendem
+que são mais importantes
+do que garantir
+o processo fabril, é?
+De uma empresa
+ou de qualquer método
+processo. E já a segunda linha
+seria o melhor cenário, é?
+Aquilo que realmente
+tem que acontecer,
+ou seja,
+a comunicação tem que acontecer
+com todos,
+todos tem que estar
+imbuídos e entendidos, é?
+De todos os processos
+que precisam ser feitos
+pra poder garantir, é?
+É, confiabilidade
+dentro dos processos. E entender que
+a mesma linguagem
+que o gerente fala,
+ou aquele que á mais abaixo
+lá no pé da pirâmide,
+também tem que saber, é?
+Tem que á todo mundo
+na linha de um bonitinho aí
+pra coisa poder rodar
+da melhor forma possível. Perfeito. É isso aí. A colaboração,
+ela tem que vim de todos. ão, eu só queria
+contribuir aí pro time,
+que eu tive a oportunidade
+de trabalhar com a LPS
+algumas vezes
+em alguns contatos. E, ,
+eu acho que o maior desafio
+entre as duas pirâmides aí
+é nessa parte do LPS, é?
+Que tem outras partes também. Primeiramente, é o ego. Às vezes, muitas vezes,
+os gerentes e coordenadores
+engenheiros,
+eles fecham os olhos
+pra o que a operação fala
+ou acreditam que, talvez,
+até por suas formações,
+eles acham que ão precisam
+saber da opinião da implantação
+lá do cara que á lá
+no campo mesmo,
+do encarregado que vai
+executar o serviço. E por muitas tratativas mínimas,
+é, que quando chega lá
+na conta do encarregado
+que ele á executando,
+ele acaba dando essa solução,
+mas ninguém tem essa visibilidade. , às vezes,
+o gerente, o ordenador,
+o engenheiro,
+ele ão sabe que pra fazer
+determinado de serviço
+tem que ter um detalhezinho
+pequeno que o cara lá no campo
+na hora ele se desdobra. Mas que ,
+quando fez o planejamento,
+o gerente,
+ele ão imaginou
+o fluxo do projeto,
+ele ão pensou. E, às vezes,
+se tiver um encarregado muito ,
+ele vai saber desdobrar isso na hora,
+mas se tiver uma pessoa
+já com um pouco de experiência,
+pode gerar um problema
+e um potencial atraso. , o ego é algo
+que ele á no meio,
+que ele permeia
+entre a mudança de cultura,
+é, da primeira pirâmide
+pra segunda pirâmide. Perfeito. Só antes de seguir,
+isso que você falou é perfeito. ,
+precisa da gente escolher
+uma das pirâmides
+em detrimento da outra?
+ão. O ideal é que trabalhe
+com essa informação
+numa forma de fluxo. , leva a informação ali
+da gerência pra baixo,
+com foco ali,
+onde, é,
+o último planejador,
+no caso, o encarregado,
+ele é o centro das atenções
+e a retroalimentação
+voltando pro gerente,
+pro gerente,
+da forma que já faz hoje. E aí, o que você falou
+é bem pertinente. Às vezes, as pessoas,
+elas êm um certo preconceito
+com quem á na base. Por isso que ós,
+como facilitadores ali do LPS,
+ precisa de estruturar
+quais são esses pontos de vista,
+quais são essas restrições
+que o pessoal da base ali
+á levantando. E isso, tem ferramenta
+que vai ver
+nos próximos slides ali,
+dentro do LPS,
+pra gente estruturar
+e mostrar valor
+pros gerentes. Tem um trabalho que faz,
+que é mostrar os resultados
+da pontidão,
+e isso tem que ser vendido
+pra autoadministração
+pra que eles entendam ali
+os benefícios
+e mostre que
+tem a necessidade
+da gente que á na base
+e, principalmente,
+ter o patrocínio deles
+pra ter esse de trabalho. Acho que alguém
+tinha levantado a mão
+antes de eu seguir. Alguém quer completar alguma coisa aí?
+ão?
+Já baixou já. Ah, á. Só falando 
+da segunda pirâmide, é, pessoal?
+Acho que o pessoal
+ bem ali
+quais são os conceitos das duas
+que o LPS ele traz. A segunda pirâmide,
+ela tem, , ali
+uma prioridade
+pro último planejador. Ou seja,
+é a base da pirâmide. , ali,
+todo o grupo que á acima,
+ trabalha ali
+nessa parte estratégica,
+na organização,
+pra facilitar o trabalho
+de quem á na base. Pra que ele consiga, de fato,
+fazer o que deve ser feito,
+porque pode ser feito. , ,
+seguindo aqui
+o próximo slide. , pessoal,
+aqui já começa
+a entrar, ,
+no LPS. Eu trouxe só um slide aqui
+falando sobre o Lean. No final da apresentação,
+eu vou ver com o Daniel
+se vai disponibilizar
+esse material,
+mas tem ali
+alguns links. ão é difícil
+da gente encontrar
+sites na internet
+que eles trazem ali
+respeito do Lean. Se vocês quiserem depois ali,
+vocês podem pesquisar. Mas o Lean,
+o que é o Lean?
+O Lean, ele é
+uma filosofia
+que ela surgiu lá
+do sistema Toyota em 1950,
+e aí, basicamente,
+tudo se resume
+à eliminação de desperdício
+e à criação do fluxo
+de valor contínuo
+pro cliente. , ,
+o Lean,
+ele tem alguns princípios
+e consegue associar
+esses princípios
+claramente ao LPS. tem ali
+a parte de melhoria contínua. , se você olhar lá
+no fluxo que tem
+ali dentro do LPS,
+ tem lá o final do fluxo,
+onde tem ali
+a retroalimentação
+e entra nessa parte
+de melhoria contínua
+do que vivenciou
+naquele período. É como se fosse
+uma sprint do ágil,
+do metodologia ágil. Acaba que,
+se pegar e falar LPS,
+metodologia ágil,
+Kanban,
+cara, praticamente
+essas metodologias
+que tem,
+todas elas fazem parte
+do guarda-chuva do Lean. Todas elas praticamente
+tem essa base do Lean. , encontra
+muitos ritos
+que são idênticos ali
+ou tem uma pequena variação
+de metodologia para outra
+com nomes diferentes. Mas acaba que a essência
+que está
+é o conceito do Lean. Por isso que ela se assemelha
+tanto ali
+a um rito para outro
+de diferentes metodologias. , tem,
+,
+a eliminação de desperdício. Quando pega
+e planeja bem,
+quando tem ali
+a prontidão muito bem
+estabelecida,
+muito bem tratada,
+ elimina desperdício. Como, ,
+eu vou lá,
+mobilizo uma equipe,
+mobilizo guindaste,
+coloco na programação semanal
+e quando vai executar,
+é uma programação,
+uma atividade que 
+ão consegue executar ela
+porque faltou o principal material,
+faltou um material ali
+que é relevante
+para a atividade. , elimina
+o desperdício,
+porque quando 
+leva a programação,
+ só leva,
+através de um sistema
+inteligente de trabalho
+que vai ver,
+só leva o que realmente
+pode ser feito. O fluxo contínuo,
+isso,
+depois ali que tem
+um sistema de liberação
+inteligente,
+com as atividades liberadas
+para entrar
+dentro de uma programação
+semanal,
+teoricamente,
+porque sabe
+que é muito dinâmico
+no mundo do projeto,
+ tem ali,
+no mínimo,
+ou precisa ter
+no mínimo ali,
+de 95% a 100%
+de todo o fluxo contínuo
+durante aquela programação. Por quê?
+ trata
+tudo que pode dar errado
+na prontidão,
+que seria ali no carrete. Mas, vocês vão ver
+à frente ali,
+que existe uma possibilidade
+de encontrar
+restrições ali dentro
+do período que 
+está de execução em campo,
+inclusive, vão ver
+até uma ferramenta
+para isso e como trata. E aí, a produção puxada,
+só produz o quê?
+O que realmente é necessário,
+o que pode ser feito,
+ão é igual 
+viu anteriormente. planeja muito ali,
+e aí planeja coisas
+que nem fazem sentido
+e empurra. Isso aqui é o que tem que ser feito. E esse é um dos pontos
+principais que tem
+para uma programação,
+ela ão dá uma boa aderência. empurrar
+atividade,
+empurrar uma programação
+ali que ão pode ser feito. E isso é outra coisa
+que no nosso dia a dia,
+ percebe
+que acontece muito. É difícil conseguir
+pegar uma programação
+onde essa programação
+ela é robusta,
+onde bate o olho ali
+e é confiável,
+ tem ali
+credibilidade nela. porque muitas das vezes
+as pessoas usam
+a programação semanal
+como um papel
+que vai ser entregue
+lá para o pessoal de campo
+e o pessoal de campo se vire. Essa é a palavra. Ele se vire. Ele que vai atrás de material,
+ele que vai atrás de insumo,
+ele que vai atrás de um equipamento
+lá no xerifado. E muitas das vezes,
+é nesse momento
+que descobre
+que ão tem um item,
+ão tem um equipamento
+e aí tudo que planejou,
+aquela equipe que está mobilizada,
+você imagina,
+ perdeu horas
+entre ter a iniciação
+daquela atividade,
+descobrir ali
+que ela ão vai poder ser executada
+e aí o redirecionamento
+daquela equipe
+para uma outra atividade. tem
+uma perca contínua
+relacionada ali ao HH
+quando age dessa forma. Você pega uma obra grande,
+imagina o tanto de HH
+que você queima
+por conta da gente
+ão ter uma prontidão. E aí o foco no valor
+para o cliente. tem ali
+uma metodologia
+que é do Veloring,
+até a base ali
+para a certificação do PMOCP
+e ela tem foco total
+nessa parte do fluxo contínuo
+para o valor do cliente. A perspectiva do cliente ali
+enxergar o valor
+durante todo o fluxo
+e respeito às pessoas. , seguindo,
+alguém tem uma dúvida?
+Eu tenho que mandar
+dois mensagens,
+um monte de coisa. pessoal,
+ vai entrar agora
+falando um pouco sobre
+como surgiu o LPS. o Lean Construction
+ele trouxe na época de 90
+quando tinha ali
+a indústria automotiva
+com o Lean,
+ou seja,
+com o sistema de trabalho
+e esse sistema de trabalho
+em todos aqueles princípios
+e isso chamou a atenção
+da construção. e aí se criou o Lean Construction. Ele pega os mesmos princípios
+ali do Lean
+e implantou dentro da metodologia. ,
+ tinha os princípios,
+mas ão tinha ali
+um sistema
+que operacionalizasse
+aquela metodologia
+e aplicasse ali
+no dia a dia
+aquela metodologia. para isso
+foi criado
+por Glenn Ballard
+e Greg Hoer
+o LPS. Naquela época,
+as pessoas tinham muito,
+faltava muita previsibilidade
+do que tinha ali
+relacionado a obras. fazia ali
+cronogramas,
+ fazia programações,
+ descobria
+que os problemas
+aconteciam só na execução. E isso era um gargalo
+que acabava se criando ali
+e como um dos principais,
+essa previsibilidade,
+os principais indicadores
+que se tinha do momento
+por essa falta de aderência
+que tinha
+relacionado à programação
+e a falta de um avanço
+eficiente do físico
+do cronograma. E aí com isso,
+foi introduzida ali
+uma abordagem colaborativa
+e isso vai ver
+gradativamente. Isso aí ão foi uma coisa
+que chegou em 1990
+e o pessoal falou
+ão, esse é o caminho,
+isso aqui que vai implantar,
+ão. O do LPS
+é que ele foi construído
+de acordo com o mapeamento
+de necessidade. De acordo com a necessidade
+de quê?
+ tem um sistema
+já inicial,
+ tem oportunidade
+de melhoria nele. Por quê?
+Aí é o que foi identificado
+ali que vai ver
+no slide seguinte. , aqui um dos slides
+que mostram
+como que o LPS
+pode nos ajudar,
+principalmente,
+a melhoria no fluxo de comunicação,
+a interação entre as áreas,
+isso aí é uma das principais
+dores que tem,
+as áreas que ão se comunicam. tem ali
+interface entre áreas,
+ tem dependência
+entre áreas
+e o LPS trata tudo isso,
+porque ele traz as pessoas ali,
+principalmente ali
+na parte de planejamento,
+na parte do planner,
+para planejar junto,
+para ter uma visão junto,
+para ter ali um mafiamento
+de restrições de alto ível
+e aí também tem a oportunidade
+de fazer
+a redução de trabalho,
+uma vez que tem
+a oportunidade de entregar
+algo mais assertivo
+e o que é assertivo,
+ele faz com que o fluxo
+seja contínuo,
+ele faz com que a equipe
+trabalhe com maior conforto
+e aí elimina
+aquela loucura de obra
+de, cara,
+tem que fazer isso aqui
+para amanhã,
+vocês fizeram isso aqui,
+mas ão era isso
+para fazer no momento. , com o que tem lá
+do plano,
+planejamento puxado,
+com o que tem
+a oportunidade de envolver
+toda a equipe de projeto,
+ consegue gerenciar
+as interfaces ali
+e ter um fluxo
+um pouco mais amêndo. e o principal é o aumento
+de confiabilidade dos dados,
+uma vez que todos os dados
+que entram para o fluxo,
+eles são dados tratados. , pode ter ali
+dados que ão tem
+ali nenhuma garantia
+de confiabilidade dentro dele,
+mas mapeia
+e o produto final
+desse fluxo
+é manter
+essa confiabilidade. Mesmo que o dado,
+a informação,
+é de que ão se pode executar,
+é um risco controlado. sabe que aquilo lá
+precisa ser tratado. Diferentemente do que 
+tem muito aí,
+que é ficar no limbo. , consegue mapear,
+trazer isso aqui dentro
+de um sistema integrado,
+principalmente de ações,
+e aí ão deixar nada no limbo. E aí como se deu a evolução
+do LPS?
+, em 1990,
+nessa época ali,
+como dita,
+a parte da construção
+ão tinha ali
+um sistema
+como o Lean. Era conhecido o Lean,
+mas o Lean para a área automobilística
+e para outros nichos ali
+que eram da época. E aí houve essa adaptação
+pelo setor de construção,
+que na época
+era um setor
+que ele praticava mais
+a reatividade
+do que ser proativo. E isso tinha uma dor no momento
+que era a baixa confiabilidade
+no fim de trabalho. Ou seja,
+até existia uma programação
+de trabalho,
+ essa programação
+ão se fazia aderente
+ao que era programado. E existia muito também
+um outro ponto
+que era essa necessidade
+de ter uma conexão
+entre o planejamento
+e o que foi feito. O que seria essa relação?
+O que planejado,
+ela deveria ser
+o que realmente
+foi feito. Era algo que
+ ão tinha
+essa conexão,
+era algo que
+era meio que
+no feeling,
+no achômetro. E aí, pensando nisso,
+a solução foi criar
+um sistema de controle,
+de produção,
+e aí aproveitou-se
+para fazer o quê?
+Para colocar também
+um sistema de monitoramento. Através do quê?
+Da reunião semanal
+com os supervisores,
+até ,
+e a criação do indicador
+de aderência,
+que é o PPC,
+que vai ver
+o PPC logo à frente. , ,
+o PPC,
+estou dando um spoiler aí,
+é um indicador
+de confiabilidade
+que ele mostra
+quantas tarefas
+que foram realmente concluídas. Mas à frente
+ vai conseguir
+entender melhor esse indicador. , para esse momento,
+quando ão tinha
+confiabilidade,
+ ão tinha
+previsibilidade,
+ incorporou
+esse sistema ali
+com a criação dele,
+com reuniões semanais,
+e a criação desse indicador
+para nos dar a oportunidade
+de monitorar,
+até ,
+as atividades que foram concluídas. Era zero ou cem. E aí, lá para 2000,
+para os anos 2000,
+o PPC,
+tinha-se um problema com ele. O PPC,
+ele poderia ser alto,
+mas ainda ão conseguia
+ter o impacto
+no avanço físico
+do cronograma. Por quê?
+O PPC,
+o que ele mede?
+Ele mede se a atividade
+programada,
+ela foi concluída ou ão. isso ão quer dizer
+se realmente
+o que deveria ser feito
+ali,
+com alta prioridade,
+foi realmente feito. ão conseguia
+ter essa aferição. E aí,
+acabava que a execução,
+o que ela fazia?
+Priorizava o que era mais fácil. Para ela,
+ela queria ter um PPC alto. ,
+para burlar esse indicador,
+eles iam no que era mais fácil
+e você estava
+com o pau para fazer. E aí,
+isso aí mascarava
+a real necessidade
+do avanço físico. ,
+,
+o que se tomou ali
+como ferramenta?
+Implantou-se ali
+o planejamento de médio prazo
+e a validação
+dessa parte de viabilidade
+das atividades. o foco passou que incluía ali
+a parte do planejamento
+de médio prazo
+e aí um olhar mais estruturado
+para restrições. Porque nesse momento
+também identificou-se que
+existia também
+uma necessidade
+de se tratar as restrições
+que eram algo que
+nas reuniões que se tinha
+ali com supervisão
+eram apontados,
+mas ainda ão mapeados. ,
+muitas das vezes ali,
+resumindo,
+executava o que era fácil
+e ão o que era importante. E aí acabou que,
+como solução,
+essa implantação ali
+do planejamento
+de médio prazo,
+que aí se dá
+através ali do Luca Red,
+onde foi identificado
+a necessidade
+de fazer ali
+esse registro
+dos impedimentos
+e aí com isso
+passou-se a ter ali
+o sistema de prontidão,
+onde as atividades
+eram avaliadas
+antes de liberar. ,
+com isso conseguiu
+mandar de fato
+para o pessoal da operação
+o que realmente
+poderia ser feito. E aqui,
+o LPS começa a atuar
+além do curtíssimo prazo,
+que é o que tinha
+no momento anterior. No momento anterior,
+ falava
+de reuniões semanais. ,
+ tratava
+aquela uma semana. Com a rotina ali
+do Luca Red,
+ passou a trabalhar
+numa janela
+e essa janela passou-se
+a ser uma programação,
+a ser um planejamento
+de médio prazo,
+para que consiga
+ter previsibilidade
+e mais aderência
+na programação semanal. E aí,
+em 2020,
+que é o momento
+de virada de chave
+do LPS,
+ele deixa de ser
+só um processo de controle
+e aí ele vira
+um processo de planejamento. Integra aí
+desde essa parte
+de orçamento
+até controle. ,
+ficou uma coisa
+um pouco mais elaborada. ,
+ele chega nesse período
+de 2010
+com mais maturidade
+e aí percebeu o quê?
+Que só planejar e controlar
+ão era o suficiente. Era preciso integrar os times
+e tornar o processo
+mais colaborativo
+e ter essa parte
+de orientação
+para o fluxo contínuo. E aí,
+com isso,
+o que se criou?
+A colaboração
+é envolver todas as partes
+e aí o full planning,
+que é o planejamento puxado. Nesse rito,
+era dada a oportunidade
+para as pessoas
+participarem
+na construção
+desse planejamento
+mais executivo. E aí,
+com isso,
+era uma espécie
+de planejamento puxado
+através dos marcos
+e como tinha ali
+uma forma colaborativa,
+era feito também ali
+uma espécie de caminho
+da construção. ,
+ficou um sistema
+mais rígido,
+um sistema mais confiável,
+um sistema mais orientado
+ao fluxo contínuo,
+mais orientado
+à estratégia de negócio
+da empresa
+e foi uma grande
+virada cultural,
+se for ver,
+passou a integrar o quê?
+ão só a questão dos prazos,
+como era feito nos ritos anteriores,
+mas começou a se pensar
+em pessoas. E aí,
+ tem ali
+a fase de 2016,
+2020,
+que é uma fase de consolidação,
+praticamente uma consolidação
+ali do LPS,
+chega bem mais maduro,
+bem mais padronizado
+como uma sistemática de trabalho
+e aí,
+com isso,
+ passa a ter
+uma integração,
+ão só planejamento
+e controle,
+mas também a implantação
+das rotinas ali
+de melhoria contínua,
+e isso passou-se,
+nesse momento,
+como ele chega mais amadurecido,
+como foi um boom
+que se teve no LPS,
+passou-se a ser testado
+também ali
+em outros esferos. ,
+ão só na parte operacional,
+mas como tico,
+como estratégico. E aí,
+deixa-se de ser ali
+uma ferramenta apenas
+ali de estrutura de gestão
+para ser uma ferramenta
+ali global
+que pode ser utilizada
+ali em toda a corporação. É uma ferramenta
+que ela pode ser adaptada,
+como eu disse,
+ela tem ali frações delas
+que podem ser inclusas
+dentro ali
+de uma determinada dor,
+dentro de um determinado benefício,
+o LPS ão trabalha
+só na parte operacional. Isso é entender,
+e se estiver fazendo,
+,
+vamos dizer que
+uma parte de CAPEX,
+onde precisa
+de definir carteira,
+ pode fazer ali,
+,
+um Luca Red. Pode implantar um Luca Red ali
+para mapear as ações,
+ver os impedimentos. tem que ser bem adaptativo,
+entender bem ali
+quais são as essências
+de cada rito das ferramentas
+para que consiga adaptar
+as nossas rotinas de dia a dia. , vê aqui
+que o LPS foi estruturado
+ão só pensando de forma,
+como é que eu vou dizer,
+eu vou criar ali um sistema
+que,
+deixa eu ver como é
+que eu vou falar melhor isso aqui. Existem metodologias ali
+que quando são criadas,
+ele ão tem uma sistemática fechada. Ele é além
+do que determinados benefícios
+ele precisa. O LPS ão,
+ele foi primeiro entendido
+qual o benefício,
+qual as dores ali
+que em cada momento,
+que em cada evolução dessa,
+ele tinha como vazio,
+e aí ele foi preenchendo
+essas vacinas. Por isso que essa ferramenta
+é ão robusta,
+ão estruturada,
+e que funciona
+se utilizar ela
+nas rotinas nossas do dia a dia. Ou seja,
+ vai falar um pouquinho
+aí de AWP. A AWP, ,
+ele traz uma roupagem
+e o LPS,
+ele operaciona,
+é,
+aquela roupagem,
+aquela sistemática. Ele é uma ferramenta
+que ele se complementa
+a outras. ,
+quem é o último planejador?
+Alguém se habilita aí?
+ já falou mais ou menos ali,
+mas o que vocês entendem
+como o último planejador?
+Vocês acham que o último planejador
+é ós mesmos,
+os planejadores?
+ão tem do de campo, é?
+Mas, nessa visão,
+são todos. Eu ia dizer que são todos,
+mas . Eu ia falar que o último planejador
+é quem está mais próximo
+da execução real do trabalho. Aquela pessoa que vai fazer,
+que vai coordenar diretamente
+essa atividade em campo,
+geralmente um carregado,
+supervisor ou líder de equipe. Para mim,
+o último planejador
+é quem vai executar o trabalho. Esse sim,
+tem toda a informação. É,
+eu participei de projeto
+que o último planejador
+foi o operador de escavadeira,
+inclusive que salvou
+uma das operações, é?
+Ele teve uma visão
+e comprou a ideia dele
+e ganhou uma eficiência,
+,
+quase que o dobro
+da produção diária. Cara,
+acho que você foi perfeito. Por quê?
+O último planejador
+é de fato quem executa a tarefa. ão necessariamente
+um encarregado,
+um mestre de obra,
+mas ele pode ser ali
+um operário especialista
+ou um operário. ?
+É o melhor,
+cara,
+o melhor planejamento
+só é possível
+quando envolve
+quem executa. , ,
+você vê um caso
+que você trouxe. Pô,
+o operador foi lá
+e uma atitude dele,
+ele fez parte do planejamento
+ali daquela atividade
+e aí ele conseguiu
+trazer a forma mais eficiente
+para ser realizada. Está vendo a necessidade
+da gente trabalhar
+dentro do escritório,
+mas também buscar
+o pessoal que está lá no campo,
+ chegar ali, é?
+Às vezes ão tem a possibilidade
+de trazer
+o encarregado para o escritório,
+o operário,
+mas tem a possibilidade
+de levar uma programação ali
+nos próximos 15 dias,
+fora a semana corrente
+e deixar pregado lá
+no quadro de prontidão,
+lá na frente de trabalho,
+ou pegar
+e deixar ali junto com o encarregado,
+falar, cara,
+na oportunidade,
+dar uma passada aí
+para cada um dar uma olhada e tal. Eu sei que é difícil
+ pegar ali o operário
+e trazer ele para dentro
+de uma sala. Eu acho que na teoria
+é uma coisa,
+na prática é outra. Mas fazer
+o nosso gamble walker ali
+e levar para o pessoal
+ter essa rotina de,
+antes de fechar
+a programação semanal,
+eu passar com quem
+vai de fato executar,
+é algo que ão é difícil
+de acontecer,
+ão é difícil de fazer. Talvez ós,
+como gerenciadoras,
+ ão consiga. Mas isso aí é uma coisa
+que a contratada
+precisa fazer. tem que exigir. Hoje eu estou no contrato aqui
+e eu tive a oportunidade
+de participar
+da construção da RFP. E também ali
+da defesa
+de cada empresa
+que veio aqui
+para fazer a defesa
+da proposta. O que eu coloquei lá?
+O sistema de gestão aqui
+vai ser o LPS. Para um projeto de implantação,
+é perfeito. E ós,
+como gerenciadoras,
+ tem a facilidade
+quando tem
+uma empresa que já começou
+sabendo que ela vai utilizar
+o LPS,
+ou no caso ali de Uberlândia,
+o pessoal da DM lá,
+está sendo implantado
+o LPS,
+até ali com a Passaura,
+sem ter nada firmado,
+sem ter,
+sem contrato. A empresa comprou
+a nossa ideia ali
+e está implantando lá
+conforme a confiança
+da empreiteira
+ali no nosso trabalho. , pessoal,
+o que tem que pensar?
+Se tiver oportunidade
+de opinar,
+se tiver alguma brecha
+em contrato ali
+que fala que a contratante,
+a contratada,
+ela vai ter que respeitar
+ali o sistema de planejamento,
+algo do ,
+ tem que ficar acima. Se ão tiver,
+ tem que levar para eles
+e ão ,
+eu sou gerenciadora
+e eu quero que você faça. ão. Pessoal,
+ está tendo muito problema,
+se plantar o LPS,
+ consegue,
+e é o que eu falei,
+entenda primeiro quais são as dores
+e os benefícios que pode trazer. Como solução,
+eu proponho que 
+vá para o caminho,
+ consegue ganhar nisso,
+tal, tal, tal,
+e aí,
+tendo a confiança ali
+da construtora,
+às vezes ela até contrata
+uma pessoa para ficar dedicada
+para isso. e essa pessoa que ela tem que ir lá
+passar com o pessoal
+e fazer toda essa parte
+de levantamento,
+toda essa parte ali
+de check-in, check-out,
+a parte de levar ali
+a programação antes da emissão dela
+para o pessoal de campo. ,
+ tem que envolver
+efetivamente quem coloca a mão na massa,
+quem tem o conhecimento
+das reais condições ali do trabalho
+e ão tem jeito,
+quem executa,
+planeja e quem planeja,
+executa,
+mais ou menos . E o conceito ali,
+a produção do LX Plano System
+é justamente esse,
+o último planejador,
+que é o mais próximo
+que está da execução. E esse,
+cara,
+esse é o exemplo que você trouxe ali
+do pessoal,
+do cara de operação,
+que você mostra,
+o ão cascateado
+ pode chegar
+nesse ível ali
+do último planejador. Acho que o Léo
+levantou a mão aí. Paulo,
+boa tarde,
+dá licença,
+ fazer uma pergunta rápida. A questão desse sistema,
+você tem aí um,
+em média,
+um custo
+que possa colocar
+de agregado no contrato?
+Sei lá,
+isso seria um sistema excelente
+pelo que você passou para . Quanto que seria o custo aí disso?
+Você teria uma estimativa,
+alguma coisa nesse sentido
+para amadurecer
+essa ideia até com o cliente aqui?
+levar o custo de implantação?
+Exatamente. Mas eu vou falar que você vai precisar
+papel,
+fit,
+você vai precisar
+um planner da vida ali,
+a plataforma Ops que já tem,
+ão vai ser custo nenhum para . E lá no campo,
+você vai precisar do Madeleine. Acho que de grosso modo,
+ falando é isso. Porque ão tem um custo,
+ão é um sistema
+que vai ter que comprar
+um monte de aparato,
+nada. Cara,
+ improvisa,
+tem gente que pega o A1,
+imprime e cola lá no,
+lá no,
+na parte de área de vivência. Tem gente que faz um quadro de pontidão
+que vai ver
+e deixa lá na frente. E o que tem que ter?
+ tem que ter ali,
+,
+o Excel,
+para fazer a nossa planilha
+do 6X do Carrete. Cara,
+o e-mail para separar,
+o plano,
+se quiser integrar isso aí
+dentro de um sistema integrado
+para ações. E basicamente,
+só. Se tiver nosso terminal
+como multiplicador,
+eu sou multiplicador aqui,
+eu só preciso do teu apoio
+para mim,
+junto com a contratada,
+ implantar. Qual que é o gasto?
+Cara,
+Madeleine,
+digamos ,
+ão sei. Porque ,
+ão tem gasto. Aí,
+,
+ele ão tem,
+ão tem uma pessoa que saiba ali,
+a ferramenta. Cara,
+ ajuda. Lá em New Orleans,
+ está ajudando,
+ está puxando tudo
+para passar a urna. ,
+,
+essa questão financeira
+é bem tranquila. Sim,
+desse ponto de vista
+que você explicou,
+eu entendi. O custo,
+nesse sentido,
+é zero. Mas veja aqui,
+,
+eu estou na unidade de Caçapava,
+na Nestlé de Caçapava. O que acontece aqui?
+Nestlé,
+agora,
+ele também,
+além de ser da engenharia,
+ele é da manutenção. E isso agora,
+está sobrecarregando
+o nosso time da terminal. sempre vai olhar
+para o lado positivo. Isso quer dizer o quê?
+ está com muito trabalho aqui. ,
+se tiver um material
+parecido com esse seu,
+ou até esse,
+para apresentar
+essa estratégia para ele,
+e com a estratégia,
+pedir mais um planejador,
+,
+?
+Mais um cara de mecânica. Porque,
+eu vejo isso,
+é uma excelência
+que você está apresentando,
+mas é uma oportunidade
+de ganho para o contrato nosso. Além de apresentar
+um melhor trabalho,
+ consegue aumentar
+a nossa margem contratual também. Nesse sentido que eu queria entender. Se você já fez isso
+em alguma fábrica,
+e se você conseguiu
+colocar mais
+headcounting da terminal
+nessa fábrica. ,
+o que plantou,
+implantado ali,
+em Uberlândia,
+é com a equipe local mesmo
+que já estava lá. ão precisou
+colocar mais ninguém. Aqui na DM,
+está sendo implantado,
+isso aí eu estou puxando
+direto aqui com o cliente,
+com a equipe de projeto,
+porque eu estou no plano de ataque
+ainda,
+ão estou no projeto
+que é o projeto de execução mesmo
+de implantação da obra aqui. Mas,
+o que eu vejo?
+É um excelente par
+para que,
+primeiro,
+mostre,
+acho que esse trabalho,
+aqui são os benefícios
+que vai ter. E aí,
+aquilo que fala,
+eu preciso de um planejador. ão preciso de um planejador caro ão,
+é esse daqui. Ou talvez,
+se você quiser melhorar
+o teu relacionamento com o cliente,
+mostrar resultado,
+e aí depois mostrar
+que o negócio escalou de um modo. Às vezes você tem um cliente ali
+que ão quer desembolsar,
+mas o negócio escalou,
+tem uma escalabilidade ali,
+que está tendo
+um volume de trabalho bem maior,
+mas também está tendo resultado,
+fica até mais fácil
+de você conseguir colocar esse cara aí. ?
+Mas é um,
+acho que é uma ferramenta
+que pode ser utilizada
+para vender aí
+junto com os contratos
+com o apoio do PMO. ão sei se eu respondi a tua pergunta. Aqui eu estou fazendo por conta. Lá já tem lá
+o Diego,
+o Tentalista,
+o pessoal que está implantando por lá,
+ usou o pessoal nosso. fez um treinamento também interno,
+junto com a equipe de projetos lá da DM,
+ fez aí também um com ós,
+ conversou bastante,
+ foi direcionando ali
+essa parte de implantação,
+por isso que é ter multiplicadores. esse apoio tem
+dentro da própria terminal,
+se precisar de ajuda eu vou. Acho que o próprio Daniel aí com a equipe. Davi ali quer falar,
+Davi está com a mão levantada. Boa tarde. , aqui ão está bem
+implantando o IPS,
+ ,
+os nossos fornecedores aqui
+êm uma maturidade bem baixa. E para ão falar ,
+vamos implantar o IPS
+ou qualquer outra coisa,
+o que eu estou fazendo?
+Gerando algumas boitinhas com ele,
+bem ,
+no formato,
+fazendo check-in,
+check-out,
+ordenando restrições a princípio
+de duas semanas. E aí, nesses quase quatro meses,
+ viu que eles começaram
+a entender que já agrega valor para eles. E agrega valor para eles
+e o cliente já viu que
+teve uma mudança de chave
+de algum desses fornecedores,
+de forma que algo que era
+bem difícil de prever,
+as obras que ão via fim,
+começou a ter mais previsibilidade. acho que isso faz com que ,
+enquanto terminal,
+esteja mostrando valor para o cliente
+e ganhando também confiança
+dos fornecedores,
+que é quem vem para fiscalizar
+e também para auxiliar
+para que o serviço esteja pronto. acho que essa metodologia
+ajuda muito isso em todo o processo
+e na possibilidade da empresa
+de entregar resultado também. Léo, só contribuindo aí
+para o que o Davi falou,
+quando você fez a pergunta
+em questão de custo,
+o que ele falou é essencial. Primeiro de tudo,
+você precisa justificar
+que isso vai trazer algum ganho
+para o seu projeto. participou de um projeto
+onde estava com um projeto
+morto, com previsão de atraso
+de dois meses
+e com o custo de implantação
+do LPS trazendo ele para o projeto,
+traria mais ganho
+do que os dois meses de atraso
+pagando para a contratada. Você pode esperar
+se você for contratar uma consultoria
+especializada nisso aí,
+em torno de 40 a 90 mil reais
+por mês de consultoria,
+principalmente numa empresa,
+numa contratada
+que ão tem experiência nenhuma,
+porque ão é só o custo
+de material, digamos ,
+mas empresas especializadas
+em gestão em LPS,
+eles já êm uma estrutura
+de templates,
+de BI's pronto,
+que ajudam na celeridade
+e a engajar o procedimento. Desenvolver do zero
+é um processo de mais a longo prazo,
+principalmente numa contratada,
+mas se você precisa
+que o pessoal entre já
+juntando mesmo,
+aconselho você a estudar aí
+dentro mesmo da terminal,
+tem úcleos de gestão
+e vender essa verba para o Carol. Vai custar tanto
+trazer esse time aqui
+para implantar o LPS
+e depois fica uma pessoa
+só tocando ele,
+porque a fase de implantação
+ele dura aí de dois a três meses
+para o time pegar a cultura
+e depois uma pessoa
+que fica mantendo a rotina. Em torno desse custo mensal aí,
+dependendo da subcontratação
+de 40 a 90 mil reais por mês,
+mas dependendo do tamanho do projeto
+isso é troco de pinga. Sim, exatamente isso aí. Obrigado aí pela sua ajuda,
+viu, Fernando?
+Isso que eu queria entender, é?
+eu vejo uma oportunidade
+para agregar aqui no contrato, é?
+Eu preciso de mais material
+e estudar melhor isso
+para vender isso aqui, ?
+É uma oportunidade sim, com certeza. Obrigado, viu?
+Até uma oportunidade aí, Daniel. Consulte, é?
+Isso aí é verdade. Depois eu vou até conversar com você, Daniel. Sobre essas empresas
+que geram consultoria ali
+ a implantação do LPS. É uma oportunidade para a terminal
+para estar fazendo ali
+margem nos nossos contratos. E ,
+a forma que foi implantada ali,
+foi anteriormente,
+cara,
+é a forma mais perfeita
+que tem
+para implantar a metodologia. ão adianta querer chegar
+e botar a goela abaixo
+e falar ,
+ó, isso aqui tudo aqui, ó. Vamos implantar por segmento. Aqui eu cheguei aqui no contrato. Na segunda semana,
+ já estava implantando aqui
+a restrição com o Luca Head
+com o sistema de planner,
+que vai ver mais à frente ali. Está rodando aqui. Cara, você chega aqui,
+o pessoal está fazendo um daily
+que eles êm um quadro,
+o planner lá atrás aberto,
+e está fazendo
+toda essa gestão ali de ações,
+tudo por ele. Descobriu-se que tinha
+um, cara,
+um punhado aqui
+de ações ali
+que precisavam ser resolvidas. Inclusive, iniciou
+a parte de terraplanagem aqui. Um monte de ação pendente
+que teve que ficar
+procurando frente
+para liberar para o pessoal. Para ão ter descontinuidade,
+ ão gerou nenhum pleito
+aqui para o cliente. E, com que começou a mapear,
+tinha muita coisa. Tinha umas 10, 20 coisas ali
+que estavam ainda,
+poderiam se tornar restrições
+ali para a parte da terraplanagem
+e parar as atividades ali
+e gerou um pleito para contratar. Desde a parte de licenças biotais,
+a parte de definição
+de projetos que tem ali,
+interferência com rampa,
+de acesso com canaleta. E isso era tudo coisa
+que a forma que estava trabalhando
+vivenciava o dia a dia
+e só descobria durante o dia. É o que eu chamo ali
+do sobrevivente de obra. ão pode ser . tem que ser proativo. , essas coisas,
+essa organização,
+essa primeira organização
+que fez aqui,
+deu a oportunidade
+da gente tirar tudo aquilo
+que estava na cabeça das pessoas,
+tudo que estava debaixo da bunda,
+que as pessoas sentam em cima
+e deixam, essa é a palavra. E aí, deu-se a oportunidade
+da gente fazer um sistema
+de gerenciamento
+e aí, com isso,
+ mantém o fluxo. Ainda ão está perfeito,
+ ainda está tomando
+alguns e-mails aqui
+que estão contratados ali
+por conta dessas interferências
+que estão prejudicando elas,
+mas estão sendo tratadas. ão são coisas que estão
+aparecendo aqui do dia a dia. , sim,
+começa com o que você acha
+que vai te beneficiar. Ah, eu preciso primeiro entender
+por que a minha programação
+ão tem aderência. , o que eu vou fazer?
+Começar ali com a prontidão. Ah, a prontidão ali
+ão está gerando
+o resultado esperado
+dentro do cronograma. , vamos lá,
+vamos fazer o pleno. Vamos entender quais são
+os marcos que tem,
+vamos fazer o planejamento puxado,
+vamos entender
+se a estratégia continua sendo essa. , é isso que tem que fazer. Vai implantando. Se tiver a oportunidade
+de chegar igual aqui,
+ está tendo a oportunidade
+de chegar e implantar do zero. Porque também está em contrato
+com as contratadas
+que está pretendendo
+contratar aqui, é?
+Que estão no BID. , tem a oportunidade
+de começar do zero. É o contrato atual. Mas se ão tiver,
+começa por parcela,
+fraciona. ão espera, ão. Primeiro comenta, depois melhora, é?
+Acho que seria a frase do último momento. , pessoal,
+dando continuidade aqui. Vou passar mais rápido
+para ver até o horário aqui. tem até quatro e meia, é, Daniel?
+á. , tem, ,
+uma visão de 100 e com LPS, é?
+Falando em integração entre áreas. Sem o LPS. Isso aqui é outro item normal
+que tem no dia a dia, é?
+As áreas ão se conversam,
+o pessoal ão tem integração
+entre os trabalhos
+que estão sendo realizados. Com o LPS,
+como junta o grupo,
+ passa a trabalhar
+de maneira mais colaborativa. , dá oportunidade, é?
+Para trabalhos, principalmente,
+que êm interfaces. E aí, é?
+ tem até uma matriz
+de interface,
+onde mapeia, é?
+Toda essa gestão de interface
+que precisa ser feita,
+seja ela entre disciplinas, é?
+Seja elas até dentro
+da própria disciplina, é?
+,
+ tem contratos aqui
+com empresas de engenharia
+que precisa de ser um gerenciamento
+entre contratadas delas. Elas êm ali
+algumas subcontratadas, é?
+Digamos . E as subcontratadas ali,
+eles ão estavam conseguindo
+ter ali o resultado
+que espera. até vendeu isso aí
+para eles ali,
+explicou para eles
+para usarem ali o LPS. E eles estão dizendo
+eles ali que estão implantando, é?
+ deu oportunidade
+deles ali,
+em relação aos subcontratados,
+também fazer essa aplicação,
+essa integração ali
+entre empresas, digamos . A parte do planejamento, é?
+ sabe que,
+o modelo normal,
+ planeja, é?
+O longo prazo. E aí aquilo ali
+fica para . ão é nem o longo prazo. Muitas vezes ali,
+, ós, é?
+Ou tem ali
+contratados que só fazem
+o cronograma
+para mandar para o cliente,
+para fiscalizar o alvo. Para eles,
+é isso aí. E aí ão tem,
+em momento nenhum,
+esse cronograma,
+ele reflete que realmente
+está sendo executado no campo. Pega ali uma contratada
+de vocês ali,
+pede para ele te entregar
+ali um plano de ação ali,
+um plano de ataque,
+e aí depois você pega
+e pergunta para eles
+se o cronograma
+está refletindo aquilo. A chance de falar que ão,
+ah, ão,
+ão está refletindo ainda. É grande. As pessoas ão trabalham
+com tendência, é?
+E aí o que acontece?
+Fica ali,
+tempo em tempo,
+ali dentro do escritório,
+o cara querendo um plano de ação,
+a empresa contratada,
+precisando de fluxo de caixa,
+o cara planeja,
+planeja e entrega
+para a administração dele,
+ aquilo ali
+ão conversa com o pessoal do campo. E muitas das vezes,
+o cara que planeja,
+ele vive carreira solo,
+ele ão tem apoio ali do pessoal. ele vai lá,
+planeja da cabeça dele
+do que pediram,
+diferentemente quando 
+tem um LPS,
+que tem esse planejamento
+estruturado em três íveis. tem ali,
+digamos que o ível zero,
+que nem faz parte desse aqui,
+vamos dizer que ele é o cronograma master,
+e aí esse planejamento
+ele é feito através ali
+do pool planner,
+que é um planejamento
+de médio, longo,
+aqui ele está com um longo,
+mas dependendo da ocasião
+ele pode ser médio. Quando coloca ali
+o pool planner,
+ão é para o cara de planejamento
+vir aqui e fazer o pool planner sozinho,
+ele faz um espécie de caminho
+de construção,
+chama o pessoal,
+e o pool planner tem que ser discutido
+com toda a equipe,
+inclusive, muitas vezes ali,
+ós fiscais temos participado
+do pool planner,
+como fazia
+em outros contratos. E aí, tem o quê?
+Depois do pool planner,
+opa, planejamos,
+e agora?
+Vamos ver se dá para fazer?
+O médio, o carrete,
+e aí o curto,
+reunião semanal de prazo,
+que faz também
+uma reunião ali
+para fechar a programação
+de curto prazo,
+o planejamento de curto prazo,
+que é o planejamento
+na semana seguinte. E o que difere isso
+do anterior?
+O anterior,
+o cara vive carreira solo. No LPS, ão,
+tem que ser envolvido,
+é o comprometimento
+de toda a equipe. E, gente, tem que fazer,
+aqui, eu estou junto
+com o coordenador aqui da McKen,
+cara, pegou aqui
+uma sala,
+pregou um monte de post-it,
+também foi feito, sei lá,
+em Uberlândia,
+pelo pessoal que estava lá,
+e o que fez?
+Primeiro, construiu
+todos os pacotes de entrega
+que tinha,
+chamou todo mundo,
+encontrou alguns pacotes
+que estavam faltando,
+tinha coisa que descobriu,
+que ão estavam no projeto,
+que a empresa de engenharia
+ão tinha feito,
+estava faltando projeto
+até na parte da engenharia,
+e aí, depois,
+o que fez?
+Jogamos isso aqui
+para o cronograma,
+e agora está estruturando
+para fazer o caminho
+da construção,
+ está nesse pé hoje,
+ ,
+envolvendo todo mundo. Uma coisa que eu falo,
+ão é onde dividir a culpa,
+ão dá para ficar
+só no planejador. O Carlos levantou a mão aí. Sim, Paulo,
+boa tarde, ?
+Boa tarde. Seguinte,
+é possível compartilhar
+esse material com ?
+Vamos ver com o Daniel aí,
+Daniel que pode nos informar aí. Quem é o Daniel?
+ vai mandar o material,
+sim,
+e uma apostila também. Ah, excelente. Ótimo. Muito obrigado, João. ,
+, pessoal,
+seguindo,
+,
+o controle de produção,
+é,
+cara,
+quando pega ali
+e coloca muitas vezes ali,
+estou falando de cenários
+que eu já vivi,
+gente,
+ão estou achando culpado,
+às vezes a pessoa também
+ão tem nem oportunidade
+porque ela ão tem apoio,
+ ,
+aqui é um comparativo,
+e o que vê é do dia a dia. Estou falando que está
+que é culpado,
+que ão é,
+mas coloca ali a pessoa,
+fazer essa parte de planejamento e controle,
+ão é bem feito,
+ão tem um sistema ali até
+de retroalimentação disso aí,
+ ,
+até a dificuldade que se tem ali
+para fazer a validação
+de avanço físico,
+diferentemente ali,
+quando tem o LPS,
+ tem ali um plano,
+que ele é orientado ali
+pelo compromisso
+que é subido pelas partes,
+e até tem
+o check-in e check-out ali,
+que auxilia nessa parte
+desse controle de produção,
+ consegue fazer
+quase que diário,
+é,
+e aí gestão de informações,
+é,
+que são concentradas na equipe
+de planejamento,
+comunicação,
+ou seja,
+é aquilo,
+planeja e fica ali
+com quem sentou na mesa
+para planejar,
+já com o LPS ão,
+ela fica acessível
+para todo mundo,
+porque trabalha
+para a base daquela pirâmide,
+acompanhamento do ritmo,
+outra coisa,
+quando pega
+e tem ali a falta do LPS,
+qual que é o padrão
+de planejamento
+que eu vejo muito,
+o cara vai lá,
+solta uma programação ali,
+só coloca que tem que ser feito
+naquela semana,
+no máximo coloca ali
+um gantezinho ali
+durante a semana,
+com os dias daquela semana,
+pinta ele quando que ela começa,
+qual que é o andamento dela
+e o final dela,
+e acabou,
+isso ão serve para nada,
+por quê?
+O cara pode pegar ela
+e ele tem que fazer a escavação,
+ele pode pegar ali
+e começar aquela atividade
+no dia que está programado,
+pegar ali um APA,
+dá uma pasada por dia,
+está lá,
+está dando pasada por dia,
+por quê?
+Porque ão tem um ritmo,
+quando trabalha
+com a programação do LPS,
+e isso aí é uma coisa
+que é um compromisso
+que é feito na finalização
+antes ali da emissão
+dessa programação,
+ coloca qual que é o ritmo
+que precisa ser feito
+durante aquela semana,
+ vai ver mais à frente
+isso daí,
+e aí tomada de decisão,
+quando ão tem o LPS ali
+fica centralizado,
+demorado,
+ou seja,
+tem um problema que tem campo,
+,
+aí aquele problema,
+está com um problema nisso aqui,
+aí fica lá o pessoal lá,
+no escritório,
+esperando decisão de projetista,
+ou a decisão pode ser resolvida
+entre a equipe de projetos,
+mas ão se resolve,
+acaba sendo engolida
+pelo dia a dia,
+quando ,
+essa tomada de decisão,
+ envolve também
+o pessoal do campo,
+ escuta também
+o pessoal do campo,
+e é algo ali que acelera,
+às vezes ,
+com quem conhece ali,
+igual aqui,
+ teve um problema aqui
+de encontrar um lençol ferrático baixo,
+está na mão do projetista,
+a empresa que está executando,
+já chegou e falou,
+ão meu amigo,
+vou falar para vocês,
+envolve uma pedra aqui,
+abre aqui,
+faz o caminho para escorrer,
+babá, pum,
+acabou,
+ mandou essa solução
+para o projetista,
+os caras só estão adequando ali
+conforme quem realmente executa,
+repetiu,
+falou,
+falou,
+isso aqui funciona,
+ sim,
+ tem que descentralizar,
+se tomar decisão,
+ tem que envolver
+todas as partes,
+principalmente,
+quem de fato vai materializar aquilo ali,
+ aqui tem,
+as camadas do LPS,
+vantagem que tem ali,
+o olhar de longo prazo,
+com o masterplan,
+o de médio prazo,
+com o lucarrete,
+e o de curto prazo,
+com o curto semanal,
+e aí tem até um intermédio ali,
+igual eu falei,
+de longo, médio prazo,
+que entraria também a questão do pull planning,
+e aí pessoal,
+como que fica a estrutura do LPS?
+,
+ tem na camada superior,
+o mapeamento do que?
+Do que deve ser feito,
+ou seja,
+ pega o nosso cronograma MES,
+ cria ali os marcos,
+e aí geralmente,
+esse cronograma é um cronograma de alto ível,
+ estabelece até ,
+ali as premissas que tem de projeto,
+de alto ível,
+é importante ter esses marcos,
+principalmente,
+pro pull planning,
+por quê?
+O pull planning,
+ vai transformar esse cronograma MES executivo,
+no cronograma,
+perdão,
+esse cronograma MES,
+que é macro,
+no nosso cronograma executivo,
+e aí vem uma coisa que eu falo,
+ vê a WP,
+ vê o próprio LPS,
+e aí,
+ vê o dia a dia,
+eu ão vejo muita diferença do que faz hoje,
+ começa ali pelo cronograma de alto ível,
+ tem ele mais macro,
+ tem ali nossos marcos de contrato que coloca,
+ coloca algumas janelas executivas ali,
+conforme o que vem fazendo de trás pra frente,
+como é o cronograma mais macro,
+e aí,
+depois disso aí,
+o que faz?
+De forma progressiva,
+que aí é onda sucessiva,
+ vem abrindo aquele cronograma,
+que ele pode ser aberto de uma vez,
+ou ele pode ser aberto,
+progressivamente,
+a cada três meses,
+dependendo ali do tamanho da obra,
+ão faz sentido algum,
+ pegar o cronograma e já abrir ele todo de uma vez,
+ tem que ter ali os macros dele,
+os ranges macros que ele vende desse cronograma master,
+pra gente abrir dentro dele,
+e aí,
+com isso,
+ vem aí periodicamente,
+geralmente ali a cada três meses,
+ fazendo essa abertura ali,
+esse pull planner,
+e aí adicionando a linha de base. O pull planner,
+ele pode ser feito ali,
+tanto nessa periodicidade ali de três meses,
+com a abertura desse cronograma master,
+ou ele pode ser também feito,
+quando tem ali alguma entrega crítica,
+,
+eu quero,
+a caldeira pra mim é algo crítico,
+o que eu faço?
+Eu vou lá,
+faço um pull planner,
+pra aquela estrutura específica,
+que é a caldeira. ,
+é outra coisa que precisa de entender,
+quando usar ele. ão quer dizer que eu vou usar ele,
+pra desmembrar ali,
+pra desmembrar ão,
+pra cascatear ali o cronograma master,
+ão. Eu posso utilizar ele,
+pra uma estrutura crítica,
+trazer as pessoas certas,
+pra gente saber os momentos que tem ali,
+de partir daquele equipamento,
+ou o fim ali daquele equipamento ali,
+ou daquela estrutura,
+e aí trabalhar com esse planejamento puxado. E gente,
+sempre é pato mão,
+ão adianta a pessoa,
+engenheiro de planejamento,
+écnico de planejamento,
+trabalhar de carreira solo. precisa de envolver as pessoas,
+por quê?
+É colaborativo. ão consegue ter a visão do todo,
+se colocar pessoas que são especialistas,
+se colocar pessoas que são dos suprimentos,
+isso aí pode levantar nessa fase,
+mesmo que em alto ível,
+muitas restrições. E aí,
+ vai pra fase do que eu posso fazer,
+que aí já começa a parte do médio e curto prazo. , eu tenho lá,
+o que deve ser feito?
+á ali no meu cronograma master,
+no meu cronograma executivo,
+á ali,
+o que tem que ser feito?
+Quando eu entro no 6X no K-RED,
+eu mapeio o que eu posso fazer. Isso aí,
+o que faz?
+ pega uma projeção de seis semanas,
+como vai ver à frente,
+e aí abre essa projeção e vê,
+eu posso fazer isso aqui. E aí trabalha o quê?
+ trabalha na prontidão. Que é o quê?
+ preparar todas aquelas atividades ali
+pra que elas se tornem executáveis. , identifica as restrições. Quando identifica as restrições,
+ coloca ali num plano de ação
+quem que é o responsável,
+quando que tem que ser feito,
+e aí passa a controlar e monitorar ela. Depois, na frente, vai ver isso melhor. E tem uma matriz de restrição pra isso. E aí é o seguinte,
+ tratou,
+isso aí tem uma projeção de seis semanas. Digamos que a atividade chegou no período
+de ela se tornar parte da programação quinzenal. O que tem aí?
+É o que eu vou fazer. Apesar que a quinzenal,
+ vai ver à frente,
+a segunda semana,
+ tem que. As atividades que estão mapeadas ali,
+elas podem até ter alguma restrição. Mas desde que sejam restrições
+que garanta que,
+quando ela se transformar numa. na semana corrente,
+na programação da semana corrente,
+ela vai estar sanada. , na semana um,
+que seria, de fato,
+a minha programação semanal,
+é o que eu vou fazer. Ou seja,
+é o que foi tratado,
+é o que eliminou restrições,
+é o que garantiu ali,
+que vai ter material,
+equipamento,
+pessoas. , é isso aqui,
+é o que eu vou fazer. E aí, no final do ciclo,
+é o que foi feito. Que aí entra ali
+na parte de check-in, check-out,
+nessa coordenação diária. É o que tem de indicadores ali,
+além do PPC,
+ tem mais dois. É o momento da gente fazer
+aquela aprendizagem rápida. E aí, como é que entra
+essa aprendizagem rápida?
+ vai ver que,
+na nossa programação,
+ consegue mapear
+quais foram os itens
+que impactaram ali
+o avanço das atividades
+e aí tiveram um impacto ali,
+geraram um impacto ali
+na nossa programação. E aí aprende com isso,
+porque mapeia,
+ sabe lá o que é material,
+é improdutividade. , aprende rápido ali
+com o que está impedindo
+ ter de avanço. E tem a oportunidade
+de ter esse feedback de que maneira?
+Diariamente. É mesmo ali com check-in, check-out. Esse aqui é o fluxo do LPS. , tem a parte
+do nosso cronograma. Mas antes de eu dar um passo atrás,
+se ver,
+ trouxe aqui
+um círculo de PDCA. tem o clã do check-out. E esse fluxo,
+ele se encaixa perfeitamente
+dentro do PDCA. , é um fluxo pensado,
+é um fluxo muito bem aliado ali
+ao que tem
+de melhor de melhoria contínua. Na parte de planejamento,
+ tem lá
+o nosso planejamento de alto ível,
+que é o planejamento de longo prazo. Aqui, ão é em todos os fluxos
+que encontra
+esse ponto de lucarred aqui. Se ver,
+ tem um ponto de lucarred aqui
+e um ponto de lucarred
+depois do pull planner. Esse daqui,
+ele é mais focado
+para projetos,
+para megas projetos,
+projetos grandes,
+onde faz aqui
+uma espécie de 3 months lucarred,
+que é uma prontidão
+de 90 dias. Geralmente, aqui,
+ faz mais
+com equipe de projetos. , vamos lá,
+que ão começou ainda
+com as obras. pode fazer
+com equipe de projetos,
+esse lucarred,
+com uma prontidão
+de 3 meses. , aqui,
+ faz a mesma coisa. mapeia
+todas as atividades
+que vão ser feitas
+dentro dessa janela
+de 3 meses. Por estar em alto ível,
+ tende a ão ter
+um volume muito grande
+porque está falando
+de algo mato. O detalhamento
+ teria ali
+no pull planner. E aí,
+nessa etapa aqui,
+ mapeia
+as restrições de alto ível. E aí, com isso,
+ consegue o quê?
+Quando chegar aqui,
+nessa fase de pull planner,
+e principalmente,
+quando chegar aqui
+na parte do lucarred,
+e mais ainda,
+quando chegar
+na programação semanal,
+ consegue ter tratado
+toda aquela parte
+de anteobro,
+digamos ,
+que são atividades ali
+iniciais,
+que são oriundas
+da equipe de projeto,
+e, com isso,
+mitigar os impactos
+que possa causar
+relacionado a essa parte
+ainda ali de liderança
+de projeto,
+que são as partes,
+,
+a desenho de engenharia,
+alguns equipamentos
+que vão ser comprados. consegue evitar
+com que isso aí
+impacte ali na minha obra,
+o que está acontecendo,
+, aqui. E outra coisa,
+através desse lucarred aqui,
+ também tem a oportunidade
+de desse pull planner,
+ ter um pouco
+mais de maturidade. Por quê?
+Aqui,
+ele nos traz premissas
+em relação ao que 
+tem mapeado de restrição. , mapeia
+as ações que precisam ser feitas
+antes do pull planner,
+para que,
+quando eu chegue aqui
+no pull planner,
+eu já chegue já
+com todo aquele pacote
+de trabalho liberado. Se ão tiver o pacote
+de trabalho liberado,
+aqui vai me dizer,
+tem uma restrição,
+e a data que eu estou considerando
+aqui nesse range,
+já ão vai atender. , eu tenho que pegar a premissa,
+e aí tem que ter uma premissa
+aqui acordada,
+aqui entre todos,
+a premissa é que isso aqui
+se prolonga,
+vai chegar daqui 120 dias. E no meu pull planner,
+eu vou lá e coloco
+essa projeção de 120 dias. Aqui na parte do pull planner,
+é de fato ali
+o planejamento puxado. quando fala lá
+de AWP,
+ele pega o nosso pacote
+ali de áreas, disciplinas,
+e transforma o nosso pacote
+de atividades. Ou, o que é isso aqui?
+É pegar o que tem
+de pacote,
+vamos dizer ,
+geralmente o ível 5 de EAP,
+que vai estar aqui,
+e transformar ele
+no ível 6,
+que é a abertura de atividade. De que forma?
+ faz ali
+uma projeção de 3 meses,
+dependendo do projeto. Se quiser abrir ali
+o todo dele,
+salvar uma linha de base,
+e aí trabalhando no pull planner,
+para a tendência,
+ pode fazer. E deixa
+a tendência alinhada ali
+com o que tem
+de estratégia,
+e aí pelo menos
+ dá um ponto de controle. Eu geralmente,
+o que eu faço?
+Isso eu aprendi
+na época de Petrobras. tem a linha de base nossa,
+muitas vezes o cliente exige
+que já entregue
+o cronograma inteiro,
+e aí passou ali 4 meses
+e perdeu o sentido. Algumas vezes por conta
+da empreiteira,
+algumas vezes por conta
+do próprio cliente,
+e aí ão pode
+vulgarizar
+o somente de linha de base. , o que eu geralmente
+eu faço?
+Desde que se respeite
+os nossos marcos contratuais,
+as nossas janelas executivas ali,
+que tem interface
+entre disciplinas,
+eu aceito que seja adequada
+essa parte de tendência,
+e aí salva
+um plano provisório. , fica ali
+com uma linha,
+que é uma linha de linha de base,
+uma linha que é a linha
+do Planner que fez,
+que está aprovada,
+sem valor contratual algum,
+apenas para ter ali
+um ponto de controle
+mais realista,
+e aí a nossa linha real. É uma opção. , eu gosto muito
+de trabalhar ali
+com a tendência
+refletindo a realidade. Dificilmente encontra
+quem saiba trabalhar
+dessa forma. Os problemas
+que vem recebendo
+ultimamente aí,
+essa retroalimentação
+que ela deveria ocorrer,
+e o resultado que seria
+a parte da tendência,
+está ali refletindo
+que tem estratégia,
+isso aí ão acontece
+no dia a dia. E aí vem aqui
+para a parte do Luca Red,
+que aí sim,
+é pegar do meu planejamento executivo,
+fazer a prontidão
+de seis semanas,
+para que as atividades ali,
+através de um sistema
+de liberação inteligente
+de atividades que vai ver,
+de trabalho,
+que vai ver à frente,
+elas entrem dentro
+de uma programação semanal,
+e aí, enquanto essa programação
+semanal é executada,
+eu faço meu check-in,
+meu check-out diário. E aqui a oportunidade
+de melhoria pontesina,
+aprender com o que deu errado,
+aprender com o que 
+teve refrição,
+e aí tem oportunidade
+de, nesse ciclo,
+ trazer melhoria. Se for ver,
+ tem 
+a parte do Clump,
+a parte do Do,
+a parte do Check,
+e a parte do Act. Ele fecha dentro ali
+de um ciclo de melhoria pontina. Só vem um segundo, . Mas agora vai desmembrar
+isso aqui e vai entender melhor. E só trazendo, é,
+ão é o foco nosso AWP aqui,
+mas algumas limitaturas. vai falar agora
+inicialmente do nosso
+cronograma master. , cronograma master,
+ tem ali o alto ível,
+que ele vem ali pro diretor,
+onde recebe ali,
+vamos falar como empreiteiro,
+geralmente pra ós já vem
+isso aí praticamente pronto. Mas a empreiteira,
+ela recebe aquela APQ detalhada,
+ela faz empacotamento
+daquela APQ,
+que aí acaba gerando ali a IAP,
+que são os pacotes de trabalho
+que tem que ser entregue
+dentro daquele projeto. E aqui gera o nosso cronograma master,
+ele é um cronograma de alto ível. eu sei ali quais são os pacotes
+que eu preciso entregar,
+conforme ali a APQ,
+conforme ali em estudos
+projetos executivos,
+mas estudos projetos executivos
+sem entrar em tantos detalhes,
+mais ali nos pacotes de treco
+que tem. Por quê?
+Isso aqui ainda está em alto ível. Quando começa a obra,
+ tem um dever ali
+de fazer o quê?
+Receber os projetos detalhados
+executivos finais,
+geralmente aqui quando está nesse ível
+ tem ali os projetos
+mais básicos ali,
+ou alguns que são,
+digamos que detalhados executivos
+que algumas vezes
+ão estão aprovados,
+mas que tem se presta
+de fechar algum bid ali
+e envia pra eles,
+pro proponente. Quando recebe ali
+os projetos executivos de fato,
+ tem a obrigação
+de fazer o quê?
+um take-off dos materiais. Por quê?
+Aqui começa a levantar
+os materiais pra saber
+se de fato ali,
+aquela PQ,
+ela está correta,
+aquele escopo é aquele mesmo,
+ eu preciso de validar isso aqui,
+por quê?
+ precisa de conhecer
+os quantitativos. vê muita empresa
+que trabalha e ão conhece,
+ão faz controle de quantitativo. O cara faz controle de holograma,
+faz um holograma ali
+e vida que segue,
+é no feeling. tem que ter
+esse documento aqui,
+que é o detalhamento,
+que é o mapa de controle. Aí tem alguns tipos
+de contrato que é complicado,
+é, pedir. , você está lá
+de poteio,
+aí o cara,
+por que você quer isso aqui?
+Isso aqui é um controle nosso,
+tal, blá, blá, blá. Isso que contrato,
+ele tem que ser muito bem amarrado. Se tiver a oportunidade
+de amarrar,
+de participar junto
+com a empresa contratante,
+por quê?
+ precisa do mapa de controle
+pra gente entender
+qual que é o volume
+que vai ter, é?
+E tem empresa que ão passa,
+tem outras que na parceria passam. E aí em cima desse mapa de controle,
+ fazia até
+a nossa validação de avanço. Eu costumo trabalhar ali
+com o físico financeiro,
+onde as atividades ali
+elas ficam em ível do físico,
+em relação ali
+a volume de trabalho,
+a área de metro quadrado,
+a peso, aquilo e tal,
+dentro ali de uma IAP ponderada. E aí depois transferindo o cronograma. Mas traz uma particularidade
+disso aqui também
+para o LPS. Por quê?
+Dentro do LPS,
+quando faz a programação semanal,
+e aí fala de ritmo, é?
+No ritmo precisa de conhecer
+qual que é esse volume aí,
+qual que é esse mapa de controle,
+qual é a quantitativa que tem. Por quê?
+Eu preciso de colocar na minha programação
+que ele vai ter que fazer
+naquela semana,
+,
+20 juntas. pra mim falar
+que ele tem que fazer 20 juntas,
+eu preciso de conhecer,
+conhecer os índices de produtividade nossos,
+é?
+E aí,
+dividir isso aí no tempo,
+conforme eu tenho ali
+de praticabilidade,
+disponibilidade,
+e aí eu falar, ó,
+por semana tem que fazer
+esse volume aqui. Porque se eu ão ditar isso aí,
+o cara ão tem o ritmo de trabalho. a programação já fica aberta. Aquilo que eu falei,
+o cara pega uma pazinha,
+vai ali,
+dá uma pasada por dia ali,
+ele á cumprindo a programação. ão tem ritmo. E aqui, é,
+ falando dessa abertura
+do cronograma,
+a ível aí de pull planner,
+que seria um detalhamento dele
+mais de 90 dias. Se tiver um programa detalhado
+acima de 90 dias,
+faz o pull planner ali,
+a ível de tendência,
+para os próximos 90 dias. precisa de estar
+tendo esse ponto de controle,
+ precisa de estar
+corrigindo rota,
+o mapa no meu terreno,
+principalmente quando 
+tem essas linhas de base
+que são salvas no início,
+na correria,
+por exigência de contrato alto. ,
+o pull planner,
+em alto ível falando,
+ele pode ser feito aí
+com esse,
+com essa duração,
+com esse prazo ali,
+de 90, 90 dias. Mas como eu disse anteriormente,
+ele pode também ser feito
+dependendo ali da necessidade. Pode fazer até de um mês,
+se você quiser fazer o pull planner. Vamos planejar o mês que vem aqui,
+vamos ver como é que está
+o caminhão da construção. Isso aí vai da necessidade. Eu ão vejo como uma regra. E aí, com isso,
+ fazer o previsionamento
+de recursos e eliminar restrições. Aí é essa parte dos ciclos do Wix. E aí é programação de atividade,
+execução do check-in checkout,
+atualização do master. É aquilo que eu falo aqui,
+master barra executivo. Tem vezes ali que o master
+vira o executivo,
+tem ocasiões ali
+que tem o executivo
+que alimenta o master. , cumprindo esse ciclo aqui,
+ faz uma retroalimentação
+do sistema,
+onde, no mínimo,
+ tem que chegar ali
+com a atualização da tendência. Isso é uma coisa
+que ão vê mais no mercado. As pessoas ão sabem
+trabalhar com tendência
+e aqui está uma ótima oportunidade
+para facilitar o trabalho delas. , granularidade que tem,
+exames dos marcos. Temos pacotes,
+abrimos as disciplinas
+e a ível de disciplina,
+os pacotes,
+abrimos as atividades. Essa é a granularidade
+que tem ali
+dentro do nosso planejamento master. Identificação dos principais
+marcos de projeto. E aí foca mais
+nos marcos de questões contratuais,
+marco regulatório,
+compromisso fixo. Mas também deve ter,
+dependendo ali do ível
+de complemento que faz,
+ também deve ter
+alguns marcos intermediários. São marcos que pode usar ali,
+dentro ali de área,
+dentro de disciplina,
+porque tem que estabelecer
+esses marcos até para ter
+ali alguns pontos
+para fazer
+planejamento puxado. , indo um pouco mais além,
+os marcos podem ser
+tanto de alto ível,
+quanto dependendo ali
+do modo que você está fazendo
+ali o planer,
+você pode fazer ele também
+ali como marcos intermediários. E aí disciplina,
+planejamento de cronograma
+por disciplina,
+por área. Aqui eu vou trazer um ponto, é?
+Até para trás eu me deparei ali
+com a EAP. abriu para fazer discussão
+qual que seria a estrutura da EAP
+que ia adotar ali
+como padrão. Gente,
+e aí eu tive a oportunidade
+já nos dois outros contratos
+de também ali
+ver o planograma
+do pessoal norte-americano. Eles que fizeram ali,
+um do Canadá
+e o outro foi padrão mesmo
+de governança americana
+ali do contrato anterior. , que está acostumado
+com esse padrão brasileiro,
+é uma loucura. Você olha e fala,
+meu Deus,
+ão tem lógica nenhuma
+de agrupamento. Mas aí levantou também um contexto. Existe uma,
+existe a forma certa
+de se fazer uma EAP?
+Difícil de falar. Ao meu ponto de vista,
+ão existe. Porque ,
+a EAP,
+ela tem que ser estruturada
+dependendo da maneira
+que você quer ver. Qual que é a maneira lógica
+que você quer ver?
+Eu tenho para o padrão meu aqui
+que as EAPs ali,
+eu faço um agrupamento nela
+ali realizando perguntas. ,
+projeto X. O que está atrasado
+do projeto X aqui?
+Ah, está atrasado
+a caldeira. Caldeira?
+Mas o que está atrasado
+na caldeira?
+Ah, está atrasado
+a civil. Mas o que está atrasado
+na civil?
+Ah, está atrasado
+na fundação. Mas o que está atrasado
+na fundação?
+,
+eu me desenvolvi
+dessa forma,
+esse pensamento,
+esse meta dessa forma,
+para mim manter
+uma padronização de EAP
+que eu julgo ser
+um agrupamento lógico
+que facilita a minha gestão,
+principalmente ali
+no decorrer da obra. porque eu consigo
+ir cascateando
+até eu chegar,
+até pegando o conceito
+de causa raiz,
+até eu chegar
+na causa raiz
+daquilo atrás. Mas tem gente
+que fala que ão,
+rapaz,
+aqui ão é área ão,
+coloca aqui primeiro disciplina
+e a área vai ficar
+dentro da disciplina. E ão existe muito errado
+ou certo em relação
+a isso aí. O que precisa ter
+é o seguinte,
+um cronograma fiel,
+que todos acreditem,
+ precisa de ter
+uma estrutura ali,
+minimamente organizada,
+onde, de fato,
+tudo que tem dentro
+daquele pacote
+está dentro daquele pacote
+e ão solto. Isso é errado. Se pegar ali,
+,
+itens que são
+do mesmo pacote
+que está fora,
+ah, coloquei aqui
+porque faz parte,
+achei que está mais próximo
+de ão sei o que. Eu nem sei,
+eu tenho até exemplos
+disso aqui,
+mas agora no momento
+eu ão consigo resgatar nenhum. Isso tem que estar certo,
+isso tem que ser estruturado
+de maneira bem feita. Mas ,
+ão se apegue ali
+à estrutura de AP. E aí, pessoal,
+modelo cascateamento,
+, chega aqui
+com o Marcos,
+abrimos aqui por disciplina,
+ou por disciplina,
+e aqui abrimos por atividade. , dicas de construção
+de cronogramas,
+que já falou sobre isso,
+no material,
+se vocês quiserem depois,
+dá para dar uma conversada,
+vou dar uma acelerada aqui. , chegando na parte
+do Pumplê,
+é uma abordagem colaborativa,
+ envolve ali
+as pessoas,
+e ,
+tem que ser construído
+em conjunto, á?
+Ele tem que ser realista
+como qualquer outro,
+qualquer cronograma
+tem que ser realista,
+as pessoas ão podem
+ão acreditar nele. Isso aí até é uma,
+se vocês procurarem
+no PMBOK,
+é algo que o PMBOK traz. Aqui, tem que também
+levar em relação ali
+o ritmo,
+para alcançar
+os marcos de projeto. , aqui,
+ tem a oportunidade
+de falar,
+ tem que fazer
+um volume de X aqui por mês,
+X por semana,
+X ali por trimestre,
+por trimestre. , você vê que tudo isso
+é discutido no Pumplê. E aqui, em alto ível,
+ele também dá a oportunidade
+para levantar
+restrições e possíveis impactos
+para a nossa matriz ali
+de impedimentos,
+de restrições. E aumenta a confiabilidade
+e compromissos reais. Por quê?
+Isso aí é feito pelo grupo,
+ão por uma pessoa. É diferente eu pegar
+e fazer um planejamento
+e entregar para uma pessoa
+e dar errado,
+eu ir cobrar ele,
+ele fala ,
+cara, mas você fez uma coisa aqui
+e planejou que ão dá nem para fazer. É diferente de quando
+a pessoa é parte do processo,
+ela fez parte,
+temos um acordo,
+eu vou cobrar ela,
+eu vou falar com ela,
+você se comprometeu a fazer isso. , ,
+ tem que envolver
+principalmente nessa parte do Pumplê. E principalmente,
+entender qual o ritmo necessário
+que tem
+para atender. Porque muitas das vezes
+ faz ali um planejamento
+e esse planejamento,
+ ão está nem aí,
+ ão sabe nem
+quanto que tem que fazer. coloca ali
+e se perguntar para ,
+ coloca,
+pô, tem que fazer 20% no mês. E aí,
+isso é uma coisa que eu sempre conto,
+que eu sempre conto
+quando eu chego na parte de programação. Mas um diretor,
+eu fiz uma programação
+e na época eu colocava porcentagem. Foi lá atrás
+que eu comecei a mexer com o LPS. E aí eu colocava lá,
+,
+solda de juntas. Tinha que fazer 2. 3% naquela semana. Aí ele chegou para mim e perguntou,
+2. 3% isso aqui da programação,
+quantas juntas tem que fazer?
+Eu olhei e falei,
+cara, ão sei,
+vou ter que ver. Aí ele falou para mim,
+pô, se você que fez aqui
+a programação ão sabe,
+imagine que alguém está no campo. E mesmo ,
+eu fiz esse 2. 3%,
+mas eu ão sabia nem
+se isso aqui era o que precisava de fato,
+que realmente atenderia aquele prazo ou ão. Cara, a relação,
+ se prende muito ali
+a ferramenta de planejamento,
+opera muito ela
+e acaba que essas essências
+que são raízes de planejamento
+ acaba perdendo. Às vezes é importante
+ pegar uma planilha ali
+e mapear,
+fazer ali alguns estudos,
+alguns cenários. Perdeu-se muito dessa essência,
+mas vamos lá. E aí como que faz com o Planner?
+ tem ali a semana
+e aí tem ali aquele grupo. ,
+vou falar das bases
+do precipitador. E aí eu pego as atividades que eu tenho
+e faço uma distribuição. Aqui, certo?
+Isso aqui,
+dependendo da forma que fizer,
+dá até para fazer um painel de balança aqui,
+que consegue ver
+toda essa parte de gap que tem,
+quando precisa começar
+uma atividade em paralelo. esse painelzinho aqui
+dá uma oportunidade
+para que as pessoas
+de diferentes disciplinas,
+eles venham aqui e falam,
+ão, cara,
+esse papelzinho vai ter que começar
+junto com esse e tal. E uma coisa,
+o Planner,
+ ão leva em consideração
+a praticabilidade. ,
+depois que fazer o Planner,
+ precisa fazer um estudo
+de praticabilidade ainda,
+porque aqui ão tem
+esse cuidado. ,
+o Planner é o planejamento puxado. E pegar da data final
+que tem
+e aí vir ali
+fazendo de trás para frente,
+naturalmente. Acho que muitos de vocês
+já devem ter feito isso aí. E ,
+nem entendem que esse é o conceito. Eu fazia isso aí muito
+quando estava começando ali
+a achar que eu sabia alguma coisa,
+no Prost,
+que era alguns momentos
+ pegar e fazer
+esse planejamento de trás para frente,
+naturalmente. E aí padronizaram,
+é uma sistemática que faz parte do FPS,
+e vocês veem que traz
+um resultado positivo. parte ali
+do que precisa de fazer,
+no prazo que precisa
+de fazer,
+para atingir
+aquela janela executiva. ,
+aqui um exemplo. O que precisa de ter?
+Definir os marcos de entrega,
+porque é através dos marcos
+que vai fazer
+o de trás para frente. ,
+a partir do marco de entrega,
+o que eu preciso fazer para trás
+para chegar nele?
+,
+eu reúno ali os envolvidos,
+faço esse mapamento
+de trás para frente,
+e aí eu tenho a oportunidade
+de fazer esse registro de atividades. ,
+basicamente,
+é isso aqui. pode fazer dentro do quadro,
+ pode fazer dentro do trelo,
+ pode fazer dentro do direto
+do cronograma. Desde que entenda
+o que está fazendo,
+ pode fazer
+de qualquer forma. ,
+entenda,
+eu vou abrir o meu cronograma master
+numa projeção de três meses,
+ou,
+já estando aberto
+esse cronograma master
+no meu executivo,
+eu vou pegar a projeção
+de três meses,
+e aí eu vou fazer
+uma avaliação de trás para frente
+através dos meus marcos
+de entrega que eu tenho. Esse é o conceito
+do Pupo Planner. ,
+é um erro mais comum
+que tem,
+é?
+Assumir que nem toda obra
+precisa do Pupo Planner,
+cara,
+o Pupo Planner se adapta
+em qualquer ocasião. Desde ali de trimestral,
+desde o semestre,
+se você quiser fazer mensal. precisa de realizar
+de forma colaborativa
+e,
+além disso,
+ão adianta nada
+ pegar e envolver as pessoas
+e ão acompanhar os compromissos
+que foram resultados
+dessa maneira colaborativa. ,
+ precisa de acompanhar,
+controle. É o que faz muito também,
+é?
+ vai lá,
+aperta a mão,
+. Aí,
+a hora que chega lá na data,
+ pega e fala,
+pô,
+ão cumpriu. tem que vir acompanhando,
+tem que vir fazendo ali
+esse ajuste de rota,
+digamos . ,
+utilizar o Pupo Planner
+apenas como reflexo
+de cronograma,
+é?
+ão tem jeito. Posso pegar o cronograma,
+jogar ali dentro do quadro
+e falar,
+fiz o Pupo Planner. Eu tenho que pegar
+e exigir que toda a equipe
+ela venha e comente,
+que foi o que fez aqui. Ela tem que olhar
+para aquilo lá,
+para aquele quadro,
+para aquele post-it,
+ão sei qual o fenômeno
+que vocês vão adotar
+e ele pegar,
+pô,
+á errado isso aqui. E é batata. vai levar isso aqui,
+pode fechar com disciplina,
+vai chegar outro e falar,
+cara,
+aqui ão pode começar ão
+por causa disso,
+disso, disso,
+tal, tal, tal. ,
+ trabalha
+de uma programação
+de maneira assertiva. Porque hoje,
+de novo,
+os planejadores,
+eles acabam vivendo
+uma vida solo. Eles fazem ali
+o planejamento
+de maneira solista. Eles ão êm ali
+quem ajuda. Ou, muitas das vezes,
+ali o pessoal
+ão quer ajudar. Essa é a verdade. , dessa forma,
+esse problema que 
+tem específico ali,
+de ter um cronograma
+que ninguém conhece,
+que ão é válido,
+que ão é um cronograma
+operacional,
+cronograma que já nasce morto,
+com o Pupo Planner
+ consegue sanar. , pessoal,
+no Carhead,
+e entra
+no sistema do Carhead,
+esse sistema por si só. Eu acho um sistema fantástico
+e ele já ajuda muito,
+principalmente quando 
+está na iniciação de contato,
+onde precisa
+colocar as coisas em ordem. Por quê?
+O que faz?
+ mapeia ali,
+faz o planejamento
+de médio prazo
+com a projeção
+de seis semanas. Certo?
+E aí,
+o que faz?
+ olhando aqui no. Deixa eu colocar a canetinha aqui. Ver esse tamanho. , pegando aqui,
+esse é o fluxo
+do Six Wix do Carhead. , tem
+a sexta semana,
+onde coleta
+e identifica restrições. Certo?
+ão quer dizer que aqui
+ ão vai ter tratativa. Por quê?
+Essa semana aqui é a semana seis. Quando pegar,
+passar ela,
+a próxima semana,
+ela vai ser a semana seis
+e essa passa a ser a semana cinco. , na semana seis,
+ tem coleta,
+identificação
+e também tratativa
+das restrições
+referentes à semana cinco e três. O ideal é que 
+tenha essas tratativas ali
+durante essa janela,
+semana cinco e três. Por quê?
+Na semana um e dois,
+ tem ali
+a programação semanal. A nossa programação,
+ela tem que ter uma visibilidade
+mínima quinzenal. Da semana que vai ser a próxima,
+vai se tornar corrente. Essa daqui
+são atividades que,
+na prontidão,
+ conseguiu retirar
+todas as restrições
+e, de fato,
+elas vão ser executadas. ão muda. E as atividades
+da segunda semana,
+que compõem ali a semana,
+os dias da semana,
+os dias ali sete a quinze,
+que são a segunda semana,
+que são atividades
+que foram tratadas
+as restrições,
+porém,
+com o diferencial de quê?
+aqui pode ter, sim,
+atividades com restrições
+mapeadas na segunda semana,
+desde que saiba
+que vai conseguir
+tratar essas restrições
+quando elas se tornarem
+a semana corrente. ,
+esse é o modo
+que tem
+de tratativa
+do SIGS-LUICS-LUCAR-RED. E aí,
+o que faz?
+ chama ali
+toda a equipe,
+vou mostrar para vocês
+o que tem. Aqui,
+quanto ao conceito
+do UCAR-RED,
+isso aqui é importante
+entender. A origem é do cronograma,
+porém,
+ tem atividades
+que ão são oriundas
+do cronograma,
+mas que refletem ali
+o impacto nele
+e que elas podem também
+ser agregadas ali
+a esse SIGS-LUICS-LUCAR-RED. Isso aí eu fui colocando
+à medida do tempo
+conforme eu ia percebendo
+que existem tarefas ali
+que são tarefas secundárias
+ali,
+que estão escondidas, é?
+e que no comentário aqui
+ pega e fala
+putz, tem isso aqui
+e ão está mapeado
+em nenhum lugar. A ideia é que
+todo de informação
+que possa impactar
+o fluxo contínuo,
+ela tem que estar
+mapeada em algum lugar. E esse algum lugar,
+ele ão pode ser
+no e-mail de um,
+no tins de outro, ão. É numa matriz centralizadora
+onde faz
+toda essa gestão integrada
+dessas restrições. Alguma dúvida aqui?
+Isso aqui é importante
+ entender. Eu vou explicar um pouquinho mais,
+ queria que vocês
+entendessem bem aqui. ão?
+Vou seguir, . Deixa eu só tirar aqui
+o contador,
+se eu ão passo aqui. , pessoal,
+como que é estruturado, ,
+o meu 6x do Carrete?
+ usa uma espécie
+de diagrama de Chicala,
+onde tem mapeado
+sete principais categorias,
+que são conhecidas,
+que causam impacto
+no nosso fluxo contínuo
+de trabalho. , separa
+por mão de obra,
+máquina, segurança,
+meio ambiente,
+medida, material e método. Isso aqui é cravado na pedra?
+ão. Se identificar
+outros itens
+que possam estar impactando,
+sendo rotina no impacto
+do nosso fluxo contínuo,
+ pode trazer também aqui. essa é a base
+que parte dela. Para ão partir do nada,
+ tem essa base
+que ela já está estruturada,
+como vai ver agora,
+o próximo item aqui,
+e trazendo o Chical aqui,
+onde tem a restrição. E aí, quando fala
+em método,
+o que tem ali
+para fazer o checklist?
+Retrabalho,
+modificação de projeto,
+modificação de serviço,
+referência de equipe,
+transferência de equipe,
+transferência de equipe,
+máquina,
+falta de equipamento,
+manutenção,
+falta de mecânica,
+monte de obra,
+renovação de equipe,
+falta de efetivo,
+processos. , tem ali
+os principais grupos,
+e ali os itens ali
+que estão como subcategoria,
+que impactam esse fluxo contínuo. Como eu disse,
+isso aqui já é um sistema pronto. pode acrescentar,
+e deve acrescentar,
+uma vez que identifique
+que é rotina,
+itens que ão estão mapeados aqui,
+é rotina que eles causem ali
+algum impacto ali
+no nosso fluxo,
+dentro da nossa programação semanal. E aqui o modelo. Como tem,
+isso aqui é lá de Uberlândia,
+eu só utilizo. , pegou lá do cronograma,
+ traz algumas informações aqui
+do cronograma também,
+por estar concluído nesse érmino. E aqui, pessoal,
+está vendo?
+Aqui tem lá os nossos grupos,
+certo?
+E aqui tem os nossos sub,
+digamos que,
+sub itens ali. , eu posso muito bem
+vir aqui dentro de projetos. Ah, eu vi que projetos aqui
+estão recebidos,
+detalhados,
+estão disponíveis na área,
+tem interferência. Se eu identificar que tem algum outro ponto
+que precisa ser verificado
+nesse checklist,
+eu venho aqui e acrescento,
+e passa a ser mais um ponto de verificação
+aqui, linha por linha,
+do nosso Lucarred. Como que passa aqui?
+ão é pra gente ficar,
+,
+montagem do guarda-corpo,
+recebimento, detalhe,
+tem coisa disponível?
+Cara, é , ó. Pessoal,
+montagem do guarda-corpo,
+tem alguma coisa de projeto pendente?
+Qualidade, tem alguma coisa pra falar?
+Material, á tudo certo?
+Tem alguma coisa?
+ão, ferramenta,
+ de obra,
+meio ambiente, como é que á?
+Meio ambiente, tem alguma coisa aqui?
+Ah, precisa de um documento?
+É . Eu, no começo,
+eu fazia ,
+montagem do guarda-corpo,
+vamos ver, recebidos. Tem detalhamento?
+Cara, você vai ficar aqui dois dias. É olhar aqui isso aqui rápido,
+tem que ser rápido,
+e já passar. E outra coisa,
+siga os links no Carred. Quando que ,
+quando que trata as informações?
+ trata informações
+no decorrer da semana. Eu pego essa planilha
+no fechamento da minha reunião de hoje,
+e já distribuo pra todo mundo. Ó, isso aqui é o que tem aqui,
+dependência no Carred. Ou, através de um sistema
+que pode utilizar do plano. E aí é o seguinte,
+antes, é,
+até, até,
+ão só o que á aqui hoje mapeado, é,
+que são essas atividades que estão ali,
+mas também as atividades
+que vão ser acrescentadas ali,
+que são atividades da semana 6. eu preciso de enviar isso aqui
+pro pessoal. E,
+quando eles virem pra reunião,
+já tem que á tudo já alinhado. Eles já sabem qual é a restrição
+que tem das atividades novas,
+que se tornaram semana 6. Eles já sabem ali,
+o que tava em vermelho ali,
+o que que resolveu. ão é pra ficar fazendo a reunião ali,
+querendo resolver coisa nela. ão adianta,
+aqui é uma reunião,
+mais ou menos, de FUP. pode trazer coisas novas,
+como oportunidade,
+identificar coisas novas,
+até aproveitando ali o grupo. Mas é uma planilha
+que ela tem que á ali
+de maneira colaborativa. pode colocar até
+tantos tins ali,
+e aí as pessoas vão ter ela
+a todo momento. Quem for lá e mexer,
+tirar alguma restrição,
+porque se você deixar pra uma pessoa ali,
+deixa pro cara do planejamento,
+o cara á morto. a ideia é que as pessoas
+que fazem parte desse grupo,
+e aí, ,
+tem uma,
+aqui quando ele tem esse vermelho,
+tem uma outra aba
+que é um plano de ação. a pessoa,
+ela sabe quais as ações
+que ela precisa,
+quais as pontas que elas precisam resolver,
+pra que nesse sistema
+de liberação de trabalho,
+ consiga ter ali
+a aprovação daquela atividade
+que ela á na programação semanal. o cara,
+ele tem que vir aqui,
+ele mesmo vem,
+faz ali a atualização ali
+daquela restrição,
+ele pode colocar aqui
+uma observação,
+ele pode tratar direto
+lá no plano,
+como vai ver à frente,
+e aí é o seguinte,
+o que á verde,
+ao final vai ver
+no outro slide,
+quando fica tudo verde lá no final,
+quer dizer que a atividade
+ela á pronta,
+ela pode ir pra programação. Quando á vermelho,
+essa atividade
+ela ão pode ir pra programação. Quando á em amarelo,
+essa atividade aqui,
+ela á verde,
+mas ela tem amarelo,
+alguma coisa,
+ela pode ir pra programação
+da segunda semana. Quando ela vier pra se tornar
+primeira semana,
+ela ão pode. Porque, lembra,
+primeira semana é só a atividade
+que tiver aqui,
+ou no goa,
+tiver verde. No caso essa daqui,
+á tudo verde. , essa é a planilha que diz,
+essa daqui pode vir pra programação,
+essa ão pode. Isso aqui que é a coluna
+que observa,
+e aí ela nos passa ali
+qual que é a saúde
+da nossa matriz de pontidão. E aí pode ter
+alguns gráficos aqui
+pra fazer o controle,
+,
+índice de remoção de restrição,
+ pode ter também
+um gráfico que indica ali
+em qual período
+que á identificando
+as restrições,
+,
+eu já tenho ali atividades
+que ela já á
+na terceira semana dela. E aí identifiquei coisa ali
+que, ,
+eu tinha identificado
+anteriormente. tudo isso aí
+ pode monitorar, é?
+Ações, restrições pendentes,
+quantas restrições pendentes
+por setor,
+status pendente. Isso aqui tem que criar,
+diferentemente lá no plano
+que vai ver,
+que é uma sistemática
+que só isso aí,
+dá um treinamento aqui
+de uma hora, uma hora e meia,
+mas é uma ferramenta
+que construído da forma
+que utiliza,
+cara, vocês conseguem
+um resultado muito positivo
+dentro dos contratos. É uma ferramenta
+que tem muito valor
+para os clientes. Aqui, só mostrando,
+ fez ali um BI
+onde tinha ali
+o filtro de ciclos ricos
+do Carred,
+aqui colocou também
+uma projeção ali
+de programação semanal,
+de duas semanas,
+e aqui conseguia
+ter uma avaliação
+numa timeline. , ,
+á vendo aqui que eu tenho
+aqui semana 1, semana 6, é?
+E ele pegava a partir
+dessa data atual da semana,
+semana atual, perdão. E aí, o que acontece?
+Eu venho aqui e quero ver
+como é que á lá
+para o final do ano. eu coloco aqui
+um filtro daqui,
+ele me traz todas as atividades
+no final do ano e tal. Ele servia para uma espécie
+de Luca Red,
+para fazer esses filtros
+e ter a tratativa com o cliente. E também para ,
+às vezes,
+como é que vai o volume
+de atividade nossas
+lá para dezembro?
+ sabe que tem
+um índice alto de abstencismo
+e tal. já tinha a oportunidade
+de ir mapear lá,
+já saiu o filtro certinho,
+falar, ó, essas aqui
+são as atividades que tem. Ver ali qual o impacto
+que pode sofrer
+em relação a esses abstencismo
+que tem no final do ano. , foi uma ferramenta
+que construiu lá
+que foi bem , é?
+Vai fazer parte da central
+de projetos nossa. E vai ser replicada também aqui, é?
+ está definindo
+só aqui essa parte do contrato,
+mas vai fazer algo parecido
+aqui também com o contrato
+da McKay. Aqui o plano de ação do Luca Red,
+que é uma aba que tem dentro
+daquela matriz de pontidão. , ele tem atividade, é?
+O quê?
+Qual que é?
+O item lá que tem
+do Chical,
+que está impactando,
+até para tirar isso aqui
+para o indicador,
+quem, quando, onde,
+qual setor, disciplina. Isso aqui dentro da planilha de Excel. aí, gente,
+o que fez?
+Eu até ia tirar isso aqui
+também lá de Uberlândia, é?
+ tem aqui também
+plantado na McKay. O que fez?
+ utilizou o Planner
+e até, ,
+trazendo um conceito ágil, é?
+Porque o Planner é mais ligado
+para essa parte de metodologias ágeis. E estruturou, é?
+Esses buckets de acordo com quem?
+Com a liderança, é?
+Ou com pessoas ali
+que faziam parte do processo. E isso nos dava
+uma tremenda visibilidade. Por quê?
+Vocês veem que nem esse aqui, ó. Esse card aqui,
+ele estava direcionado
+para essa pessoa,
+ ele tinha esse bucket. Aqui, quando ele inicia,
+ele pode mudar isso aqui,
+pode colocar o status dela de progresso. Isso aqui é importantíssimo,
+por quê?
+Direciona o valor das ações. Quando faz o filtro lá
+do check-in, check-out ali,
+a ível de liderança do projeto,
+ sabe o que está atrasado,
+que é algo que ão pode ocorrer. ão pode ter nenhum item atraso. E, principalmente,
+item atraso que é urgente e importante,
+cara, esse daí ão pode ocorrer. Isso aí faz parte do conceito. E se ocorrer,
+aí o gerente tem que tomar
+algumas providências. Tem que chamar a pessoa
+e, cara, o que você precisa?
+Até mesmo porque até, é?
+O gerente tem um problema muito grande
+de saber onde que precisa da ajuda dele. até convencionou que,
+,
+esse card,
+ele está dentro do bucket dessa pessoa, é?
+E aí,
+deixa eu só colocar a minha setinha. Está dentro dessa pessoa aqui, certo?
+E aí,
+ele é o dono da ação. Ele que é o responsável pela ação. Aquilo, cachorro do dono morre de fome. , aqui,
+ pode ter ações que,
+dentro dessa lista de verificação,
+ tem sub-ações dentro dela. E essas sub-ações podem ter pessoas
+que precisam ter ações aqui,
+precisam de matar ações,
+para que essa ação aqui
+ consiga finalizar ela. O que fez aqui?
+Tem cards desse,
+onde tem lá, ,
+a emissão de AIC. É para fulano. E aí, quando coloca fulano aqui,
+ele vem e faz parte também. acrescenta ele dentro dessa iniciativa. essa pessoa aqui
+fica dentro do bucket dela. , ,
+ela é a responsável por cobrar. Ah, mas esse fulano aqui ão me entregou, cara. Mas você é o responsável,
+ão é essa fulana aqui. , você tem a pessoa que vai puxar. ão fica aquela coisa ali
+de que é de fulano, ciclano, beltrano, ão. E se a pessoa ão consegue resolver,
+aí convencionou
+que pode colocar o gerente aqui. Aí, o gerente é assinalizado tudo por e-mail. Ele sabe,
+tem uma ação que foi acrescentada. E ele sabe que aquilo ali
+precisa de um apoio. , ele vai procurar saber. Precisa escalar,
+precisa de algum apoio ali
+que é alçada maior ali,
+que é alçada dele mesmo, ão sei. , convencionou
+fazer todo esse sistema, é,
+de impedimentos, restrições,
+aqui no Planner,
+até mesmo para melhorar
+a forma da gente ter de organização. E ele também, automaticamente, é,
+ele já nos dá ali
+através do hub dele, é. Deixa eu só tirar aqui. , através do hub dele,
+ele traz outros gráficos. Mas, além desse aqui,
+,
+o que teve de positivo?
+Essa pessoa,
+ela tinha quase 60 ações. Quando você ão colocou,
+ela estava aqui,
+tinha pessoas que estavam aqui,
+que, cara,
+isso aqui mostra gargalo
+dentro do nosso processo. Por isso que 
+estava tendo muito problema lá. E aí, o que pode fazer?
+Opa, agora é fadas e dados. Essa pessoa precisa de ajuda. Vamos distribuir demanda dela,
+equalizar aqui, equilibrar. E aí, consegue ter ali
+um fluxo contínuo. Nossa ferramenta do Planner,
+á vendo?
+Tem umas 40 ações ali
+que foram concluídas, é. tinha 23 no iniciado,
+22 no endamento,
+7 atrasadas. Você vê que, ,
+pelo úmero de ações que tinham,
+7 atrasadas,
+são até um úmero ali
+que , é,
+dependendo, obviamente,
+da urgência dela. Porque, às vezes,
+você tem uma e essa uma
+mata todo o time. Mas é um úmero
+que é relativamente baixo. Por quê?
+ tem uma gestão integrada,
+as pessoas sabem
+que precisa ser feito aquilo ali
+para conseguir manter
+o fluxo contínuo do projeto. E aí, pessoal,
+parte de programação semanal, é. Parte de programação semanal
+só entra dentro da programação semanal
+em dois casos. Quando tem ali
+a projeção da semana 2, é,
+dentro de 15 dias,
+atividades que estão em amarelo. como viu lá
+no nosso patrícia de prontidão. E dentro da semana corrente,
+somente atividades que estiverem ali
+no sistema de liberação
+de trabalho inteligente,
+o verdinho ali aprovado,
+ó, essa daqui pode fazer. E aí ela entra dentro
+da programação semanal. , como que funciona?
+Para pegar e emitir
+essa programação semanal,
+geralmente pega e faz o quê?
+Na terça-feira,
+ trabalha junto com,
+ fecha ali, é,
+junto com o grupo ali,
+as restrições que tem
+dentro da nossa matriz de restrição
+na terça-feira, é. Para quê?
+Para que na quarta-feira,
+quando for fazer
+a nossa reunião de 6X no Carred,
+ ganha tempo ali já
+com as ações já praticamente ali
+resolvidas,
+ou com o que tem para registro
+já praticamente mapeado pelos litros,
+para ganhar celeridade. Quando fecha essa programação,
+ao final dela,
+essa programação ão,
+essa prontidão,
+essa matriz de prontidão ali
+do 6X,
+ao final dela consegue ver lá
+que está tudo verdinho, é,
+ consegue identificar
+as tarefas que podem ir
+para uma programação semanal
+da semana corrente. E aí ela vai para essa programação. Teoricamente,
+ela seria, é,
+quando ela passa para a semana corrente,
+ela só é um reforço
+da segunda semana da quinzena,
+que até era a segunda
+e passa a ser a primeira. E aí com isso,
+na quinta-feira,
+ manda para todas as empresas,
+ manda para todo o time,
+ leva na mão dos encarregados,
+pede para passar com a equipe deles,
+e na sexta-feira,
+ faz um fulpo disso aí. Se ão tiver nada,
+na sexta-feira,
+ imite a programação semanal. E aí é o seguinte,
+até ,
+100% garantido o quê?
+Que ós iremos cumprir
+aquela programação. Por quê?
+Passou aos olhos de todos,
+passou com um sistema de prontidão,
+um sistema de liberação inteligente,
+tudo foi tratado de maneira antecipada,
+e de fato,
+ pegou,
+incluiu naquela programação
+somente aquilo que realmente
+dá para ser feito. , aqui eu vou deixar para vocês,
+depois dar uma olhada,
+vou passar um pouco mais rápido aqui,
+por um tempo,
+mas o que tem?
+Revisão da semana anterior,
+analisando desvios,
+aí isso aqui é um ponto importante
+que vale a pena falar. Essa revisão da semana anterior,
+que faz geralmente ali,
+segunda ou terça-feira,
+que aí recebe para falar
+do fechamento da semana anterior,
+geralmente fala isso aí no War Room,
+onde traz ali principalmente
+o que aferiu ali
+de itens que impactaram,
+ou que puderam impactar ali
+a nossa programação semanal,
+e aí, pô,
+vocês podem me perguntar, é?
+Mas espera aí,
+ ão fez uma programação semanal
+onde tudo que realmente
+poderia ser executado estava ali?
+Aí, pessoal,
+vem a parte dinâmica do campo. ,
+às vezes ão conhece
+o underground ali,
+e aí o cara vai fazer
+uma escavação ali,
+um carregado,
+enquanto passando ali
+um envelopamento,
+uma tubulação,
+alguma coisa,
+entrou uma restrição
+que ão estava prevista. Pô, foi ineficaz,
+ão fomos efetivos?
+Muito ao contrário. tem que saber
+que restrições,
+ tem a obrigação
+das restrições que são visíveis
+ ter mapeado. principalmente aquelas que estão ali,
+o palmo do nariz. Essas ,
+que são de campo,
+que ão tem como saber,
+essas aí ão. Ele entra ali com uma restrição,
+muito provável aí,
+dentro lá do nosso quadro de compromisso
+que tem lá em campo,
+vai ser registrado,
+vai ser registrado ali
+como justificativa
+daquela programação,
+para quê?
+Para que tenha
+um mapeamento
+de quais os grupos
+que estão impactando
+a nossa programação. Por quê?
+ joga isso aí dentro
+do pareto,
+ tem lá
+o 2080. Quais são ali
+os principais itens
+que impactam a minha,
+a minha programação semanal?
+E aí com isso,
+ tem oportunidade
+do quê?
+De fazer campanhas
+com os contratados. Isso aqui,
+são os itens que mais impactam
+a programação dentro desse período. E aí ele tem que fazer
+um plano de ação
+para atender aqueles itens. E aí com isso,
+o que tem?
+A oportunidade de aprender
+e de fazer melhoria contínua. Por quê?
+Com aquilo que pegou
+e teve de prejuízo na semana,
+ aprendeu
+e está tratando
+através de um plano de ação. Para o outro órgão,
+aí sim,
+ vai monitorar
+se aquilo que mapeou
+ali daquela semana
+foi realmente tratado,
+se eles deram a aliação,
+qual foi o plano de mitigação
+que eles tiveram. E aí com isso,
+ vai mapear
+os itens da semana anterior,
+que é a semana de fechamento. E aí isso fica
+o ciclo de melhoria contínua. O que mais vê aí
+é o quê?
+As pessoas,
+eles sabem o que que impacta. Ah, a questão do material,
+ah, está sendo,
+às vezes até específico,
+é desse material específico,
+ ão trata. Ali ão. Como tem um registro,
+ fala,
+cara,
+o problema é seu
+nesse material específico,
+você tem que apresentar
+um plano de ação para ós
+e vai monitorar, é,
+como é que está sendo
+esse plano de mitigação ali,
+que vocês vão fazer. cobra, é,
+através aí dessa ferramenta ali
+do Pareto,
+ cobra ali
+essa questão de melhoria,
+por quê?
+ procura defender
+ao máximo a nossa programação. É ela que tem que fazer
+ser materializado em campo,
+que é o que vai o quê?
+Linkar tudo aquilo ali
+que está sendo planejado,
+todo aquele,
+você vê que estruturou ali
+desde a parte de alto ível ali,
+trazendo o planejamento,
+alinhado ali com as expectativas
+da alta gerência,
+e vem passando
+de modo que aquilo ali, é,
+ pense de forma inteligente,
+estrutura de forma inteligente,
+para que o produto final
+seja o quê?
+a materialização da programação. precisa de entender
+o que que está afetando
+toda aquela inteligência
+que aplicou anteriormente,
+porque isso aí é problema. E aí com isso, é,
+ consegue ter esse mapeamento
+e aí ter as tratativas devidas. Acho que desse slide aqui,
+vou deixar para vocês
+dar uma olhada melhor,
+mas esse ponto é um ponto
+extremamente interessante,
+porque é a oportunidade
+que tem aí
+de melhoria contínua
+dentro do processo,
+entre outros, é,
+dentro do processo aí
+do LPS. , análise da próxima semana,
+ faz também
+uma análise dos recursos necessários,
+ tem que ter organograma
+até para pensar em equipes. Às vezes pega
+programação,
+onde vai lá
+e calcula,
+pô, eu tenho uma oferta,
+eu tenho uma necessidade de HH
+de 100 mil,
+ão sei o que eu estou,
+e aí eu só tenho 40,
+no que eu tenho. é nesse momento
+que pega
+as contratadas ali
+e fala, pô,
+tem coisa errada aqui, é,
+acho que você está. E muito ,
+uma dica até, é,
+às vezes a forma
+que trabalha
+nos dá muito passivo, é,
+ tem
+muita atividade ali
+de cronograma
+que ele vai afunilando,
+afunilando no final,
+nem afunilando,
+ ele vai abrindo
+ali no final
+e aí ão tem invasão. É, quando chega até um dia
+que ela coloca café
+e chocolate aí. Chocolate eu quero, hein. Duas e duas?
+Deixa eu dar para colocar
+no mundo aqui. , pessoal,
+estou seguindo,
+,
+uma dica, é,
+muitas das vezes
+ vai pegar
+um plano de recuperação,
+um plano de ação
+de uma empresa, é,
+e aí ela vem lá,
+ tem a curva, é,
+que ela coloca ali
+daquele plano de ação,
+tem as barras de histograma
+que acompanham a curva, é,
+que refletem ali
+o esforço semanal,
+que eles precisam fazer, é,
+para atingir aquela entrega,
+que é um lado ali
+que tem na curva,
+na linha. E aí, muitas das vezes, é,
+a empresa vem,
+ tem um histórico ali,
+que se jogar ali
+uma mediana,
+a empresa consegue ter,
+pelo que o histórico
+ teve ali,
+ela consegue ter
+esforço semanal ali,
+,
+de 3,3%, ali. Isso foi a média
+que eles conseguiram. E aí no plano
+eles vão lá e entregam ali
+um plano,
+onde bate,
+eu ão preciso nem ver
+outra coisa,
+sempre começa a virar curva. Eu bato o olho,
+o cara fala que vai fazer 6,
+vai fazer 5,
+ão precisa nem ser ão alto. Se o cara falar
+que ele vai manter ali 3,5%,
+que é a mediana dele,
+já é um ponto para falar,
+cara, mas vem cá,
+aqui o teu histórico,
+é, você consegue manter isso aqui,
+mas vê que tem muita variação. O que você vai fazer de diferente
+para você conseguir manter
+a constância?
+Ou, se ele fizer até
+um volume maior, é,
+ah, vou fazer 5%. O que você vai fazer?
+Porque efetivo,
+você falou que ão vai colocar. E um ponto importante
+é o seguinte, é,
+o que acontece?
+Muitas empresas ali,
+elas êm ali esses passivos
+que ficam,
+que são a formação
+desse backlog,
+essa dívida,
+do que ficou em atraso
+para trás e vem se acumulando. Isso aí tem que ser somado
+ao que tem ali
+no cronograma
+de atividades correntes,
+que são as atividades futuras. E aí, isso aí,
+ tem que entender
+qual que é o HH total
+que vai ter
+em relação ao passivo
+de backlog,
+mais ali o que tem
+de projeção do corrente. E dividir isso aí pelo quê?
+Pelo que tem ali, é,
+de oferta de HH, é,
+que geralmente pega
+o histograma dele,
+conforme o histograma dele, é,
+de oferta de HH que tem
+daquele ponto de corte
+até o final. Muitas vezes vê ali
+o que vê aqui, é,
+falando que vai cumprir
+aquele mesmo prazo,
+aí você vai lá, calcula lá,
+passivo de backlog,
+mais o corrente,
+pô, dá 10 mil horas aí,
+10 mil horas, vamos dizer . E aí você calcula ali
+o que ele tem de oferta de HH,
+conforme o histograma dele,
+pô, o cara tem 3 mil. esse de coisa ali, é,
+ tem o organograma
+da empresa,
+ tem essas informações ali,
+é importante, principalmente
+pra gente ter essa visibilidade
+de HH, é,
+e esses esforços ali
+pra contestar. Vou pegando o gancho
+que isso é um negócio
+que vê bastante isso aí, é,
+o plano de ação sendo entregue,
+mas pela curva já viu
+o ão fictício que é. E aí na programação semanal, é,
+ fazia o final
+com compromisso com os líderes, é,
+ em união com os carregados,
+se ão der pra ser com o carregado,
+trazer pra sala,
+ tem que ter o GEMBA,
+levar lá pro carregado,
+na quinta-feira,
+ele comenta,
+faz parte também
+desse comentário dele,
+e aí na sexta-feira
+ emite de forma, é,
+mais bem robusta,
+mais bem assertiva,
+a parte da programação semanal. Aqui um exemplo
+da programação semanal,
+e aqui,
+uma programação semanal
+que tem, é,
+que eu tava usando lá em Uberlândia,
+só teve esse problema aqui,
+eu até conversei com
+quem me mandou,
+e ele á com problema médico lá,
+ão conseguiu resolver. Isso aqui eu peguei,
+mas só ilustrativo, á,
+ão tem nada a ver com lá ão,
+eu ão consegui o material
+que á de lá,
+e aí eu trouxe só esse gráfico de PPC
+só pra gente entender
+como que pode avaliar,
+apesar que o gráfico de PPC
+ vai ver que
+ele sozinho ão diz muita coisa, á. Mas aqui partindo da programação,
+qual a programação que usa?
+É essa estrutura aqui, á. E aqui ainda pra trás dela, é,
+deixa eu só,
+e aqui, depois dessa aderência aqui,
+ ainda tem ali
+um campo de observação
+que coloca a justificativa
+pro ão cumprimento,
+e é essa justificativa
+do ão cumprimento
+que coleta
+pra gente colocar dentro ali
+do diagrama de Pareto,
+do gráfico de Pareto. E aí como que estrutura?
+ tem ali a tarefa,
+ aqui, ó,
+ela á resumida,
+isso aqui evoluiu, á. tem a tarefa,
+ tem o nome da empresa,
+o nome do encarregado responsável,
+aí traz ali
+o valor acumulado,
+tem a duração,
+início e termo previsto,
+e aqui, pessoal,
+é o que eu falei, é,
+que é o ritmo,
+isso aqui tem que ter. Eu, antigamente,
+como é que eu fazia isso aqui?
+,
+tinha escavação,
+aí eu colocava lá,
+ão é,
+você tem que fazer 15. 7 metros
+de escavação. Cara, é impossível
+um encarregado
+fazer sem campo. Ele ão vai fazer,
+é difícil,
+ sabe também ali
+que tem alguns perfis ali
+que ão tem tanta instrução,
+é,
+isso aí ão se classifica
+como excelentes profissionais,
+mas ão tem tanta instrução. , aqui,
+no ritmo,
+ tem que facilitar. ,
+se eu tenho escavação,
+cara, você tem que fazer,
+nessa semana,
+10 blocos. E aí, pessoal,
+aqui vê
+que tem
+segunda, terça, quarta,
+quinta, sexta, tal. Isso aqui é o que tem
+de distribuição daquela semana. , vem aqui,
+passa a previsão, é,
+de quanto que ele tem que fazer
+por dia. Isso fala ,
+mas, geralmente,
+ pega da contratada. Ou faz ali,
+pessoal,
+em comum,
+ tem que ser colaborativo
+porque, como gerenciador,
+o sucesso ali do empreendimento,
+ele conta muito, é,
+apesar de ão ter ali,
+digamos,
+nenhuma ligação ali
+com contratadas de cliente nosso,
+mas conta muito ali
+a forma que pegou
+e se relacionou,
+a forma também
+com que ajudou. , vale a pena também,
+às vezes, ali,
+sair um pouco fora da caixinha ali,
+é,
+descer ali do salto,
+digamos ,
+e participar. Mas aqui,
+como pode ver, é,
+isso aqui tem uma distribuição, á?
+Conforme ali,
+o úmero que programou,
+conforme esse úmero,
+ pode chamar de ritmo. E esse ritmo,
+ele é feito, é,
+é tirado lá da reunião de pull player,
+onde pega aquele marco
+e vê o que traz pra frente. O que precisa fazer?
+E aí,
+qual o ritmo que tem que ter
+em relação ao volume
+que remete lá
+àquela nossa planilha master
+que vai ter
+de controle de quantitativo,
+lá atrás, no início. Você vê que é um sistema
+que é totalmente linkado. , tem que estruturar
+esse sistema, é,
+pra que consiga ter
+facilidade na implantação dele. E aí, pessoal,
+ tem aqui o gráfico
+do índice do PPC,
+do IPP e do ICP. Aqui vai falar
+mais pra frente. Aqui tem o gráfico do PPC. Eu ão consegui pegar o material lá,
+novamente, mas
+ vai disponibilizar o template. Até vou ver com a Marinho
+e com o Daniel aqui. tem esses templates
+já prontos, á?
+Só vou pedir ali pro Daniel, é,
+dar uma olhada pro pessoal de PMO
+pra gente fazer algumas adequações ali. Inclusive, essa programação semanal
+mais robusta,
+que é o modelo que 
+á utilizando lá. Pessoal, alguma dúvida
+em relação à programação?
+Seguindo, . Eu. Ah, pode. Desculpa. Essa. De onde é feita a extração dos dados
+pra você poder elaborar a programação?
+Quais dá?
+De onde é que vem do cronograma?
+Todos?
+. Estão aqui. Isso aqui tudo é de cronograma. . Da onde que partiu isso aqui?
+Antes de vir pra programação semanal,
+ lança, é,
+todas essas informações
+lá na nossa matriz lá de restrições. Quando á fazendo no Carrete. faz um filtro ali
+do que precisa executar
+dentro daquele período de seis semanas
+e já vem trabalhando ele. Quando chega ali
+na data com aquela semana,
+ou sim, digamos que
+aquelas atividades
+já são cadastradas também ali
+com qual semana do ano
+ou qual semana do projeto
+elas vão ser executadas. Quando ela chega naquela semana,
+aquela semana ali,
+se torna semana de 15 dias ou atual,
+aí migra isso aí
+pra programação semanal. Que aí no caso é isso aqui, ó. Isso aqui, ele vem lá do cronograma. Essa porcentagem anterior,
+porcentagem programada,
+isso aqui também vem de lá. Tem uma planilha circular
+e aí tem um PROC V aqui que ele puxa. É porque essa planilha aqui
+ão á conforme á utilizando,
+mas ela tem ali um ID exclusivo da atividade
+que ela puxa as informações ali
+do que tem de cronograma. E aí só isso aqui, ó. A parte de quantitativo,
+isso aqui tem que vir daquela matriz
+que tem em relação ao quantitativo. , , lá. Eu tenho ali montagem de 13 vigas, é?
+Eu sei que 26 vigas é 100%. Se eu tenho que montar agora 13 vigas,
+ aqui eu vou ficar com 50%, certo?
+Que é o que eu tenho programado pra semana. Mas ,
+da onde que veio essa necessidade
+de montar essas 13 vigas aqui
+dentro da semana?
+Veio do cronograma,
+veio do meu ritmo,
+que é o quê?
+Cara, eu já montei 13,
+eu preciso montar essas 13 aqui
+e terminar dentro dessa semana. tem que montar 13,
+ão tem quanto correr. Se eu tivesse mais prazo,
+,
+eu tenho ali 100 vigas, é?
+E aí eu tenho no período do dia 14, é?
+Ao dia,
+14 do 7 ao dia 31 do 12. eu poderia fazer uma distribuição
+disso aqui,
+e aí eu criar esse ritmo aqui
+conforme o range executivo que eu tenho. E aí eu vou colocar o quantitativo
+que eu tenho que fazer isso aí por semana. ,
+se eu tenho que montar a tubulação ali
+de alguma linha,
+eu posso jogar quilograma,
+eu posso jogar peça,
+posso jogar úmero de junta. ão sei se ficou claro. tem. Entendi, ficou . E isso que. Outra pergunta. Ah, tira. Por isso que precisa de ter
+o cronograma bem estruturado,
+principalmente pro planner. Verdade. E lá atrás,
+ tem o take-off lá
+com todo o quantitativo de projeto,
+tudo mapeado,
+pra gente saber que
+aquela linha que planejou,
+o quantitativo é esse. eu tenho que ter ali
+até pra gente ponderar, é?
+Até pra gente pegar e saber
+o ritmo que tem que fazer
+dentro da distribuição de tempo
+que colocou. Perfeito. Uma outra pergunta. Eu ô reparando ali também
+que no previsto
+existem dias que ão tem
+nada programado, é?
+Agendado pra acontecer nesses dias. Isso aí foi algo que vocês fizeram
+dentro do planejamento
+ou já foi algum. ão teve algum motivo específico
+pra isso acontecer?
+, aqui. Vamos lá. Planejou-se aqui, previsto, é?
+Que essa atividade aqui
+de montagem de vida
+se começasse na quarta-feira. Deixa eu só. Acho que eu ão ô com o negócio aí. Ah, foi uma antecipação no caso, é?
+É. Aí antecipou. Esse lançamento dessa antecipação,
+quem faz é o encarregado de campo. Vocês vão ver que depois
+tem um lançamento lá do PPC. Isso aqui ele faz lá
+no quadro de prontidão,
+no quadro de compromisso. Pode perguntar outro?
+Você perguntar?
+á. É aí. os outros dias
+eles ficam sem programação. É normal isso aí pra vocês?
+Cara, é normal. ão tem um. Se você olhar o teu cronograma ali,
+se você olhar o teu cronograma aqui,
+ele vai estar a mesma coisa. Se você, , aqui, vamos dizer,
+eu tenho 10 juntas de solda. Se o meu volume que falta ali, é?
+São 10 juntas, 10 unidades,
+e aí 10 unidades eu consigo fazer só na segunda,
+á aqui o previsto. Concluir a atividade. ão tem mais coisa pra fazer aqui. Ah, ão tem. Sim. Do mesmo jeito que eu posso, , aqui,
+ter concretagem. E aí, digamos que a concretagem. Vamos dizer ali que eu tenho um equipamento pequeno,
+que eu ão vou ligar ele,
+ão tem carga dinâmica. eu vou colocar aqui, ó. Concretagem aqui. Concretei aqui, ó. é?
+E aí, aqui ão vai ter mais nada. Certo?
+E aí depois eu venho e começo aqui uma atividade
+que é colocar uma bomba em cima daquele item completado. Você vai ver que vai ficando esses gaps aqui. Isso aqui, ele vai refletir teoricamente
+que o cronograma, ele atua dessa forma. Se tiver os gaps aqui,
+ele reflete também dessa forma. Aqui é o seguinte. Se eu tivesse, , aqui 50 juntas,
+eu posso ver aqui no meu previsto aqui
+que eu vou colocar 10, 10, 10, 10, 10. O provável aqui é que só estava planejado fazer essas 10. Provavelmente terminou
+ou alguma particularidade que se teve. E aí você vê que no real dele aqui, ó,
+ele acabou fazendo 5, 5. ão acabou dentro de um dia planejado. á, . Aqui, ó, vou falar pra você, cara. Aqui, geralmente,
+ utiliza muito ali do feeling, á?
+Porque se eu falo que tem que ser 13 aqui no dia,
+esse é o meu ritmo da semana. Aqui é da semana. Dentro dessa semana eu tenho que fazer isso aqui, ó. esse é o meu ritmo. Aqui, às vezes, fala, pô,
+eu preciso de. Eu tenho vontade de andando lá e tal, cara. Deixa esse gap aqui. Coloca que vai ter dois aqui, dois aqui. E aí o resto você coloca aqui, ó. Distribui aqui nesses dois. eu posso também pensar
+em fazer uma curva de aceleração. O que importa pra mim no fechamento da programação
+é essa quantidade aqui, ó. Tem que fechar isso aqui. Apesar que esse índice aqui,
+dentro do PPC,
+ vai ver que tem um monitoramento diário, é?
+E aí vai ter uma discrepância,
+uma variação dentro do nosso PPC. Mas eu vou explicar isso aí lá no próximo gráfico. . . Pode seguir aí. Depois eu pergunto outras coisas. Você já pode responder mais à frente. ão, vamos lá. Talvez você responda em outro slide, ?
+Eu ô só pra você pra perguntar. ão, tranquilo. Aqui, pessoal, tem ali as razões de ão cumprimento,
+como eu falei, é?
+O mapeamento que tem. , PPC aqui, aderência. ão consegui também pegar de lá. Eu trouxe uma imagem até de uma literatura que eu tenho. E aí aqui tem a distribuição,
+conforme o que foi. Falta de material. Falta de equipamento, é?
+Superestimação de mão de obra. E isso aqui é o que coloca dentro lá do nosso pareto
+pra que as empresas tratem. Por quê?
+É isso aqui, é esse mapa aqui que ele vai mostrar
+que a nossa tratativa inteligente lá de trás ali,
+de todo início até chegar aqui na parte de programação,
+ela foi vencida por algum desses motivos. , precisa ser tratado pra que consiga ter eficiência
+e bater ali o 100%. Até isso, a oportunidade de mapear. E isso tem muito valor. , falando um pouco dos indicadores, é?
+ tem três principais indicadores aqui. tem ali o PPC, é?
+, o PPC é um indicador que ele é 0 ou 100. O que ele leva em consideração?
+O percentual da programação cumprida. Mas é , se eu iniciei uma atividade
+e fiz 99% dela, é 0. Se eu cumprir 100, ele vai contabilizar com 100. , ele mede em relação a quantas tarefas foram programadas
+e realmente elas foram concluídas dentro do prazo. 0 ou 100. Geralmente, tem um ível de contabilidade ali, é?
+Quando atinge um ível acima de 90%,
+ pode considerar que á bem. Alguns utilizam ali uma janela maior de 85%. E abaixo de 70% do PPC,
+aí tem que ter atenção,
+porque as falhas que estão ocorrendo,
+elas estão lá no planejamento, lá no patrais. , tem que rever com o pleno,
+tem que rever a forma que á fazendo aí
+dessas mapeamentos de restrição. Se tiver a parte de 70%,
+pode dar uma olhada que a inteligência
+que á fazendo pra trás
+ão á sendo inteligente. , é isso que o PPC reflete pra gente, é?
+E ele ajuda a identificar, é?
+Essas causas de ão cumprimentos
+através do mapeamento que tem. E aí o outro, que é o indicador ali
+de produção planejada, que é o IPP,
+esse aqui, ele mede o quanto que foi feito, é?
+O quanto que foi executado,
+do que estava de fato ali programado. , o que acontece?
+Ele evita, de certa forma ali, é?
+Que cumpra metas improvisadas. Por quê?
+Vou explicar e vocês vão entender melhor do ICP. Ele vai de 0 a 100. , ele realmente, ele afere
+a quantidade que foi programada
+e a quantidade que foi realizada. E aí, essa aderência, é?
+Entre isso aí, é o que ele traz
+com um limite de teto ali de 100%. Porque senão, você vai perceber
+que o outro ali, ele meio que inflaciona o negócio. E aí, ão é , ão. E aí, qual é a interpretação ali, é?
+Do IPP?
+Quando ele está muito baixo,
+a parte da produção, ela está descolada ali do plano, é?
+De modo que a disciplina,
+ela deixou de seguir ali o que realmente foi planejado. , , tem que chamar o pessoal para entender. Porque se ele ão tiver aderente ali, é?
+Isso aí é um indicador ali
+que precisa chamar o pessoal da produção. Diferentemente ali do PPC,
+com um indicador menor de 70,
+que ele está por trás de toda a nossa lógica
+antes de chegar ali na parte de. de. de. de. programação semanal. , e aí o ICP, é, gente?
+Esse daqui já é. Ele é. Por que eu falo que ele inflaciona, é?
+Ele mede a capacidade produtiva. O que ele faz?
+Ele avalia se a quantidade de trabalho programada
+está compatível com a capacidade real do time,
+em relação ao recurso, tempo, produtividade. E tem um problema nele que é o seguinte. Ele vai além de 100%. , quando atinge ali, ,
+uma atividade que é fácil ali,
+que deu. Vamos dizer que eu fiz 400% dela
+e eu tenho 4 atividades. Se eu deixar de fazer ali as outras atividades,
+que deveriam também ser feitas na minha programação,
+eu vou pular de slide aqui que vocês vão entender melhor. Só dar um passo atrás. O PPC, o que ele mede?
+De 0 a 100. A relação do que realmente foi cumprida. Programei 12. Fiz 12, tem 100. Programei 4. Fiz 3. É 0. E aí, o meu PPC, ele é a média disso aqui. A parte do IPP, como eu disse,
+ele se limita a 100. Fiz 12. Programado 12, 100%. Programei 4. Fiz 3, 75%. você vê que tem 4 atividades,
+as outras foram cumpridas. Ele me dá ali um percentual de 94%. E esse percentual consegue ter um pouco mais de visibilidade
+com a aderência esperada que teria lá no avanço físico. Por isso que eu gosto de usar mais esse,
+quando fala em questão de cronograma. Esse reflete mais a necessidade do que o cronograma pede. Diferentemente agora do ICP. Aí vocês vão entender. O ICP, você vê, programou 12, fez 12, 100%. Programou 4, fez 3, 75%. aqui, programou 3, opa, perdão, programou 12 e fez 14. Ele deu 117%. E aqui, se for ver ali, praticamente teria o mesmo cenário do IPP. Com a diferença de que tem um valor maior aqui da atividade 3,
+que fez a mais. o meu ICP, ele deu 98%. , o que acontece?
+Se eu tiver, , aqui 400% nessa primeira atividade,
+e aqui eu fizer 0, 0, 0,
+a hora que eu fizer essa média aqui, ele vai me dar 100% de aderência. ele mascara. Por isso que o IPPC ão pode usar sozinho. O de aderência. O de aderência de ICP ali. Ele mostra a capacidade que tem de produtividade. Ou seja, mostrou que tem capacidade naquela atividade de fazer a mais. E o IPP ão. Ele está mais alinhado com o quê?
+O que foi realmente planejado?
+O que o cronograma pede?
+Qual que é o esforço que pede ali para o avanço que foi programado na semana?
+E o que realmente ele fez?
+Aí, obviamente, pessoal, existem as partes de ponderação dentro do cronograma,
+que isso aí tem que ser avaliado. aqui ão tem ali essa ponderação. Fica ali um ponto de atenção para que reflita isso dentro do cronograma. Aqui falando em relação à programação, á?
+Se vocês ão terem um lucro entendimento, vão chegar a jogar 94% lá. ão. ão é isso. vai dar avanço na atividade ali. E aí ela tem o peso dela ali, é?
+E aí vai multiplicar conforme o que tem lá de receptar, de acumulado e tal. , ão cair nessa armadilha. essa parte?
+Posso pular?
+Falei. E aí, pessoal?
+Check-in, check-out. Aqui é o . Por quê?
+ós temos uma dificuldade muito grande. E ós somos, até como gerenciador, é muito reativo ainda. deixa a contratada trabalhar a semana inteira, para que na segunda, terça-feira,
+nos envie ali o relatório semanal. E aí, em cima do relatório semanal, vai descobrir que foi muito ruim a semana passada, anterior. Isso é ser reativo. O check-in, check-out, ele vem para ter a oportunidade de trabalhar isso aí. E de uma maneira mais descomplicada. Por quê?
+Ele tem que ser vendido para o encarregado de frente, ou para o apontador de contratado,
+com o cargo de planejamento deles. De uma maneira que vai beneficiar a tomada de decisão ali, e principalmente a manutenção do fluxo contínuo de trabalho. E aí, a improdutividade, ela vai ser combatida através ali do check-in, check-out. Porque ele nos dá a oportunidade da gente ter uma resposta rápida àquilo,
+e sem precisar da gente trabalhar a semana inteira, para descobrir que tem que tomar ações. , como que funciona o check-in?
+Aqui é simples. O check-in, tem uma reunião de 15 minutos. Essa reunião é com o encarregado, junto com a equipe dele, na frente de trabalho. Ele que vai conduzir. , o que ele vai fazer?
+Ele vai pegar a programação, que também vai estar lá disposta no quadro de compromisso lá. E ele vai falar, pessoal, é isso que precisa fazer no turno. Ele vai distribuir atividade para o pessoal. Ele vai dar a oportunidade para a equipe dele identificar restrições, interferências que ão foram mapeadas. Ele que tem que puxar isso aí. É 15 minutos. É chegar e falar, isso aqui é o que tem que fazer no dia. Você vai fazer isso, você vai fazer aquilo, tal, tal, tal. Se tiver já restrição, no começo do dia já tem a oportunidade de saber, tentar resolver. Se tiver restrição, já tem a oportunidade de deslocar aquela equipe, talvez, para uma outra frente de serviço de maneira rápida. ão precisar descobrir no meio do caminho ali. Pô, tem gente que fica parada ali. Ah, cara, eu vou ter um problema aqui. Porque o cara está preso naquela atividade. A mente dele é essa. Se ele fala que tem uma restrição, já comunica. E isso aqui no check-in tem condição de identificar, é?
+Quando possível. já tem a oportunidade de ão perder aquele tempo de mobilização do pessoal para outra frente de serviço. E é simples. É chamar o pessoal aqui. E é isso aqui. Mostrar o que vai fazer. Distribuir os recursos. E pedir se tem alguma interferência, algo do ali que precisa ser tratado. É isso. E aí a reunião de check-out. No final do dia. No final do dia, , ele vai fazer a mesma coisa. Cara, duração 15 minutos e 1, 25 minutos. Nem isso. Tem check-in que é rápido. O cara faz em 5 minutos, 10 minutos. Isso é uma coisa que ganha muito. ão perde nesse tempo. Porque esse tempo, eles estão dando oportunidade de conseguir manter ali o fluxo contínuo. E evitar o desperdício ali de hora de equipamento parado, hora de equipe parada, algum equipamento que foi locado especificamente para aquela atividade. Hora de avanço em cronograma. Porque é o seguinte, cronograma ão avançou, mas ali as despesas que tem ali dentro do projeto, principalmente com a contratada, continuam ali. Ela ão para. O relógio é contínuo até o final do projeto. Quando ela tiver o custo, o custo está indo. O custo falado. Tem uma restrição ão para parar. E isso é importante. tem que ter em mente que ão está aqui para quebrar a empresa. Tem muita gente ainda que acha que tem que ser carrasco de empresa. tem que ser parceiro das empresas. Porque o cliente confiou na gente no gerenciamento para ele ter o benefício esperado dele, que é a conclusão daquele projeto. Que é ali a produção. Ele ão quer o lucro cessante. Para ele, quebramos a empresa aqui, ferramos o cara aqui. Cara, ão é vantagem nenhuma para ele. tem que ser parceiro da empresa, tem que vender para ela. E até entender que isso é um risco que traz quando tem uma empresa que é desorganizada. E a empresa fica com o fluxo de caixa comprometida, abandona a obra. O check-in, check-out, , ele vem para nos ajudar a dar essa visibilidade diária. , o que acontece?
+Aqui pode trazer o engenheiro de campo, o planejador. E aí analisa o gráfico de PPC do dia. Repassa alguma coisa de aspecto de segurança, apesar que faz DDS. Aí compartilha a restrição de desvio ali para mapear, para levar para dentro, para conversar, para tomar ações. Ele avalia também os limites da equipe. Aqui é importante que vê ali a produtividade que teve. O ritmo da equipe. Cara, ão consigo fazer 10. ão dá. Por quê?
+Cara, o soldador é produtivo. A máquina aqui é uma máquina que tem capacidade, tem aparante que está esquentando. aqui avalia, até para levar, já fala, cara, aquele ritmo ão vai avançar. já começa a entender de que forma pode auxiliar esses problemas que o encarregado ali, que a equipe de campo está vivendo. Por quê?
+Se acha que o planejador vive carreira solo, coitado do encarregado da equipe dele. Os caras são vistos, igual falou anteriormente, apenas como executores. Vai lá, meu filho, faz. Cara, os caras êm que se virar nos 30. tem que confiar muito na produtividade dessas pessoas aí. E se ão tiver produtividade, cara, acabou. vai ter produtividade porque as pessoas ão são produtivas. isso aí tem capacidade também já de, através do checkout, avaliar e já mapear. E aí com isso tem a possibilidade também de repassar a programação do semana seguinte. E aí falar alguma coisa, se tiver alguma previsibilidade, ão é passar para distribuir, cara, amanhã vai fazer de forma sucinta. ão é atividade, tem que fazer escavação disso, vamos fazer aqui e tal. Tem alguma coisa? Tem rápido? Tem alguma coisa ali que você vê?
+Ah, ão. Tem alguma coisa que apareceu no dia que pode virar uma restrição?
+Tem alguma coisa que você vê de sobreposição?
+Isso aí ia ser proativo. fala muito de proatividade, mas ão exerce isso aí, principalmente na gestão de projetos. Principalmente na gestão de implantação, principalmente no campo. E se tiver uma rotina de checkout, cara, coloca uma pessoa dedicada, vai fazer esse guemba. Vira rotina. E aqui um exemplo que tem lá, é?
+Aqui tem a programação semanal, certo?
+Aqui á distribuído ali o ritmo deles, é?
+E aqui alguma observação que eles vão colocando ali de algum impacto que teve. Aqui tem o gráfico de PPC. Aquilo que eu falo, o PPC ele dá oportunidade, é?
+, essa, como fiscal, ão sabe muitas vezes o que á acontecendo porque só vê o pessoal trabalhando. E aí tem que conversar com as pessoas aqui, buscar ser detetive pra entender dificuldades, essas coisas. Se tem um quadro de quantidão, o que acontece?
+Primeira coisa, eu vejo aqui o PPC. Deixa eu só ver aqui. Eu vejo aqui o PPC. Eu já vejo se , se á ruim ali, aquela atividade. Aquela frente de trabalho. Esse quadro de compromisso, ele tem que estar na frente de trabalho. Pega um aderite velho, pega qualquer coisa ali e coloca. Por quê?
+A programação tem que estar na frente de trabalho, no local. A programação tem que estar na frente de trabalho, lá no local. As pessoas êm que entender o que vai fazer. Pô, você pega ali o próprio oficial, ele ão sabe o que tem que ser feito. Ele sabe da boca, do encarregado, do encarregado, ão fala tudo. O cara ão dá nem oportunidade pra ele ser colaborativo ali, prever alguma restrição. , dando aqui, á visível. O PPC, o que que acontece?
+Diariamente, vai ver no próximo slide, mas ele tem aqui, é?
+Dois eixos. E aí preenche esse PPC diariamente. Eu, como fiscal, se eu chego e bato olho nisso aqui, ó. Eu já sei que tem problema aqui. Porque ele ão atingiu ali o meu PPC pra aquele dia. ?
+, aqui eu já começo a ver que tem problema. Eu ão preciso de ninguém me falar. Eu ão preciso esperar ali o fechamento da semana. E eu já alerto a atividade, tal, tal, tal, lá na frente. O PPC dela do dia foi tanto. O que que aconteceu?
+Qualquer plano de mitigação. , eu também já provoco ali a contratada. Há também tomações ali de apoio pro pessoal que á executando. , de certo modo ali, além da gente beneficiar o cliente,
+ também beneficia ali a empresa que ão tem ali uma gestão. Pra que ela também consiga manter ali o fluxo de caixa, principalmente dela ali,
+com essas improdutividades ali que podem se tornar problema. E aqui, gente, o PCS, que é problemas, causas e soluções. Deu qualquer impedimento, qualquer restrição, o encarregado, ele vem aqui e registra. Aqui eu sei que tem restrição. Eu posso vir aqui, tirar uma foto disso aqui, já mando e-mail. Tem uma restrição aqui na atividade tal, na frente de trabalho tal. Posso chamar o encarregado lá da contratada. Aí eu posso chamar a equipe de projeto. E aí resolver. ão preciso esperar o final da próxima semana, quando ela me mandar um relatório. E aí o relatório mostrar pra gente que foi improdutivo, que teve problema. E o fiscal ão precisa ser um cara que seja detetive, ão. Ele pode vir aqui e olhar. Tem uns outros gráficos também que mostram produtividade de máquina, produtividade de pessoas. aí começa a ficar difícil. Isso aí é uma coisa que tem que ter uma maturidade maior, porque pede pro pessoal de campo fazer isso aí. Se colocar muito volume, acaba desmotivando o pessoal, muita coisa. Cara, esse tripé aqui, esse aqui já vem pronto. Esse aqui ele tem que colocar ali, a obrigação dele de restrição, até pra ajudar ele. O meu pedido de ajuda é esse. E aqui, ele vai mostrar a produtividade dele. Isso aqui é fácil, ?
+Isso aqui é bem tranquilo. aqui, pessoal, aqui é o que coloca além ali da programação semanal. É o PPC, que é o porcentual planejado concluído. Digamos que aqui, na segunda-feira, aqui tem o eixo da semana. E aqui é a porcentagem que teve de PPC. Aí, pessoal, é uma coisa que. , isso é uma coisa que ele vem até da literatura. E, sei lá, eu acho um negócio meio errado. Eu acho que poderia ão pegar do PPC e pegar lá do IPP. Mas, eles usam aqui. E aí, vocês podem pensar, pô, mas o PPC. O PPC, ele ão é de 0 a 100. Aí, lembrando, pessoal, aqui é a média que ele tinha programado pra semana. , ele ão vai pegar de uma atividade. Ele vai pegar aqui as atividades ali, conforme isso aqui, conforme o ritmo dele. á aqui, ó. Deixa eu só voltar um pouco. á vendo aqui? Aqui á o ritmo dele. E aqui á o dia. , essas atividades aqui, tem que fazer 4 dessas, 4, 6 dessas. É em cima desse levantamento que ele vai fazer a média. E vai falar aqui nesse gráfico aqui, quanto que ele fez. , ele vem aqui na segunda. Dizer aqui, deixa eu só colocar aqui minha caneta. Aqui, na segunda, ele fez 90%. Aí, aqui na terça, o cara fez aqui 82%. Aqui, eu como fiscal já bato o olho e falo, cara, tem problema nessa atividade. O que vai fazer pra melhorar lá?
+Já chama o encarregado, já chama o engenheiro, já chama a sua tratada. Aí, identificou que vai precisar de colocar mais mão de obra lá,
+porque o que foi estimado ão deu. Aí, no próximo dia, opa, tivemos resultado lá, mas ainda ão á. O que espera? Tem que fechar 100%. briga pra nossa programação. Se ela ão tiver nenhuma restrição, ela tem 100% de aderência. Se ela ão tem, é algum problema de produtividade que á tendo em campo. Ou seja, o ritmo que colocou ali pra equipe de projeto,
+ão é o ritmo que ela tem capacidade,
+seja por questões ali de pessoas que estão aprendendo,
+seja por pessoas ali que êm uma certa morosidade,
+mas, geralmente, isso á associado à parte de produtividade de empresa,
+de produtividade de equipe,
+quando ão tem nada registrado aqui no PCS. E aí, aqui, vai registrando. Esse gráfico aqui, ele chega . Até o final ali do dia, tem um registro ali do histórico do nosso IPPC,
+até mesmo pra gente pegar e começar a criar nossos indicadores. E aqui, o PCS, o que ele vai fazer?
+Deu algum problema?
+ vai registrar aqui a causa, a possível solução, o responsável, o prazo e tal. Isso aqui pode até fazer em conjunto, ?
+Às vezes, ali, o carregado, ele só abre essa parte aqui, chama e direciona. Mas, esses dois itens aqui, eles já nos dão a possibilidade de ser proativos. Aí, sim, somos proativos. De maneira contrária, ão pode falar muito ali o que é. E aí, pessoal, antes de avançar, tem alguma dúvida aqui em relação ao check-in, check-out?
+ão, á ótimo aí, excelente. E aí, pessoal, em relação ao. Antes de avançar pro próximo slide, é?
+ tem um orgulho. Dentro desse método, gera indicadores. E aí, esses indicadores ali, depende muito do que quer ver. , tem indicadores ali do processo do LPS,
+indicadores que tem lá de planejamento,
+indicadores de segurança, meio ambiente, é?
+Isso, traz todos esses indicadores ali pra dentro de uma sala, é?
+Deixa ela com todos esses úmeros. E é onde faz o War Room com as nossas contratadas. ão adianta pegar a reunião com o ATA, com. Cara, precisa de ter ali visibilidade, principalmente ali,
+da nossa aderência, da nossa programação, é?
+Pra gente ter propriedade pra discutir. Aqui, á fazendo um trabalho, é?
+á desenvolvendo uma pessoa pra isso, pra gente digitalizar tudo isso. , quer ter um painel, é?
+Naralco lá, á sendo feito mais ou menos ali dentro desse corpo ali,
+um painel onde mostra indicadores. Aqui, quer ter a mesma coisa. , quer estruturar os indicadores dentro do War Room. ter esses indicadores através da metodologia,
+através ali de outros que vão ser viabilizados ali junto com o cliente,
+o irmão do cliente e até o próprio nosso. E aí, ter uma sala de guerra estruturada
+para que consiga ali, é?
+Sempre em prol ali do bem da obra, é?
+ão tem aquilo, é?
+ ão pode nunca escolher lado. tem que tentar dar da obra. é contratado pra isso. , tem que ter essa War Room
+e precisa estruturar ela dessa forma. , seguindo, pessoal. Passagem rápida aqui. já está finalizando. Corrente crítica com o LPS. A ideia aqui é o quê?
+Mostrar que o LPS, ele ão é. É. Ele ão é uma metodologia que usa em detrimento de outra. Ele pode. E, , pode muito ser utilizado ali
+pra gente operacionalizar com a nossa estratégia. , , tem ali a parte da corrente crítica, é?
+Corrente crítica, trabalha, teoricamente,
+ falando ali bem sucinto. Isso aqui também dá outro treinamento. tem ali o pilar, que é a síndrome de estudante, é?
+Que é onde tem ali pro conceito que
+se tiver uma atividade
+que eu sei que eu faço ali, , em 10 dias. Se eu tiver um prazo de 20,
+ vai fazer essa atividade durante todo o período de 20 dias. E aí, o que a metodologia crítica, ela trata, é?
+, quando pega o cronograma,
+dificilmente as pessoas usam ali, ,
+uma estimativa de três pontos ali,
+que coloca ali o fator de ponderação beta, triangular, é?
+Dificilmente elas fazem. A maioria das vezes que recebe o cronograma,
+ele é um cronograma arbitrário. E esse cronograma arbitrário,
+ele tem muita gordura. ão vou chamar de buffer, é gordura. As pessoas estimulam ali pra mais. o metacorrente crítica, faz esse análise, é?
+E aí visa enxugar essas atividades. faz ali, de fato, um estudo correto. faz ali uma estruturação,
+uma ponderação, um método de três pontos. Ou usa ali um determinado outro software ali. , até um próprio Monte Carlo,
+pra gente trazer ali incorrências de algumas premissas. E aí enxuga, de fato, ali essas atividades,
+trazendo que, de fato,
+ao período que, de fato, elas podem ser executadas. O que é, de fato, ali alguma coisa,
+algo que ela vai ser executada. tira todas essas gorduras. Ou seja, impede a síndrome do estudante. E um outro conceito que ela tem,
+que é o conceito do Parkinson, é?
+O de Parkinson,
+ele leva em consideração. Agora me fugiu da cabeça. Ele me deu o Parkinson agora. Ele tem da parte da corrente crítica. Ela tem o de Parkinson,
+que é um síndrome do estudante. Marina, consulte pra mim aí. Só me relempe, por favor. A cabeça de um gestor é muito grande. O problema de Parkinson ali dentro da corrente crítica,
+que agora eu ão lembrei. Mas pode pesquisar aí. Eu vou seguir aqui. o que ele faz?
+Ele combate essas duas teorias ali,
+a teoria do estudante e a de Parkinson. E ele acrescenta buffers no projeto. A meta da corrente crítica é o quê?
+ defender o prazo final do projeto. o que tem?
+É difícil fazer o meta da corrente crítica,
+ós diretamente no Colograma, . O que faz?
+ usa softwares pra isso. E aí esses softwares, o que eles fazem?
+Eles fazem uma análise ali,
+porque os buffers podem ser alocados
+tanto no prazo final ali do projeto,
+quanto ali em pacotes que são críticos,
+quanto em atividades que desagam,
+um grupo de atividades que desagam
+em uma atividade ali comum. E o software faz toda essa análise ali
+e ele cria esses buffers, certo?
+, de certo modo dizendo ali,
+ele enxerga o projeto como sistema
+de recursos limitados. E isso é importante entender também o quê?
+Dentro do método da corrente crítica,
+quando fala ali de recursos,
+ele faz a equalização ali desses recursos. Muitas vezes pega ali o Colograma
+e esse Colograma ali,
+ ão faz ali uma equalização
+de recursos dentro deles,
+um balanceamento. O próprio Proch, ,
+de Maverna, consegue fazer isso aí,
+que é o balanceamento de recursos ali. E que muitas vezes ali,
+ele vai lá e bagunça mais do que ajuda. Mas . O método da corrente crítica,
+ele leva em consideração os recursos,
+porque tem muito Colograma quando ele é feito,
+coloca-se aqui a questão de link, estimativa,
+mas às vezes tem sobreposição,
+, ali de um especialista,
+de um grupo,
+e ão consegue ter essa visão. , a corrente crítica ali,
+teoricamente ali,
+ela foca aí nesse prazo global,
+como proteção do projeto, é?
+, ele cria essa lógica ali,
+com restrições relacionadas
+à parte de recursos. E como que controla isso
+dentro da corrente crítica, é?
+ passa a controlar,
+ tem uma planilhinha,
+ou faz ali até um próprio sistema no BI, é?
+Ou até insere uma atividade ali
+pra controle de buffer dentro do proixo da vida,
+e passa a controlar
+aquele consumo daquele buffer ao longo do tempo. Esse, teoricamente falando,
+de uma maneira ,
+de uma maneira mais breve,
+é o método da corrente crítica. Como o College Planner System,
+ele pode incorporar e ajudar?
+É operacionalizar esse cronograma. É garantir o quê?
+Através da prontidão, é?
+Através ali da nossa programação semanal,
+de check-in, check-out,
+que esses buffers, eles estão protegidos. Enquanto um, ele enxerga ali
+o projeto como sistema de recursos limitado,
+que ele visa garantir o prazo final do projeto,
+esse é o objetivo,
+o outro, ele enxerga ali como sistema puxado,
+até pra melhor organizar, é?
+E os buffers que ele trabalha
+eram os buffers relacionados ali à confiabilidade, é?
+E os percentuais de acerto. Por quê?
+O College Planner System,
+ele á focado na confiabilidade
+que vai ter da nossa programação, certo?
+O foco de que aquilo que programou,
+que veio lá,
+o sistema de proteção da corrente crítica,
+que foi programado,
+ele vai ser de fato executável,
+e com isso ali eu protejo os buffers, é?
+ planeja ali
+com base na questão da prontidão, é?
+E o compromisso da equipe,
+o que o método da corrente crítica
+planeja agregando à equipe,
+as restrições que tem, é?
+ esse é uma forma
+que pode utilizar aí
+pra trabalhar o College Planner System
+junto ali com o método da corrente crítica. Aqui, pessoal,
+é mais uma passada mesmo ali, é?
+Acho que só o método da corrente crítica
+também dá um treinamento,
+mas mostrando que ão é uma ferramenta
+que ela trabalhe em modo desoperante,
+muito pelo contrário,
+ela se completa com outros, é?
+E aí também falando um pouco do AWP, é?
+o College Planner System,
+mesma coisa. A WP, é?
+ usa a WP pra garantir o quê?
+Que o que deve ser feito e quando,
+ou seja, o empacotamento, é?
+ visa garantir que o AWP,
+quando chega no AWP,
+ chega com todos os pacotes já montados,
+com todos os pacotes já 100%, é?
+E o LPS, ele vem pra garantir
+que realmente aí vai ser feito dessa forma. Ele vem pra proteger aí
+essa estruturação,
+essa roupagem que tem da WP, é?
+, , em resumo, é?
+O AWP, ele vai organizar o projeto
+desde a parte lá de engenharia, é?
+ tem parte de área, é?
+A parte ali de pacotes,
+e isso tudo é linkado através
+do sistema de codificação,
+onde , é?
+Acaba estruturando, linkando ali
+os nossos pacotes de engenharia
+e os nossos pacotes de procurement,
+a fim de criar toda essa sistemática ali
+pra ter uma proteção pro AWP,
+ele chegar no ível executivo,
+ível que já tem já todos os trabalhos
+prontos para ser planejados. pode usar muito bem ali
+um look ahead pra gente garantir o quê?
+Vamos garantir que todos os projetos
+estejam prontos. tem que fazer um look ahead, é?
+E olhar ali a questão dos projetos. Mesma coisa que eu acude. Acaba que, ,
+o que usa no sistema do FPS,
+ vai usar praticamente ali
+ com nomes diferentes ali
+ou com alguma coisa adaptada,
+principalmente, dentro do AWP, é?
+Apesar que os dois ão se confundem, é?
+, o que tem que fazer?
+, de certo modo,
+ organiza ali, é?
+O AWP de ível macro,
+e aí estrutura ali
+esses projetos a ível de pacotes, é?
+Que são parte do AWP,
+pacote de instalação, CWP, os AWP,
+e aí, assegurando com que o AWP
+só chega a execução ali, é?
+novamente, quando de fato
+eles estão prontos com materiais, desenhos. Você vê, ele tem uma espécie de chical
+que usou lá
+com uma sabatriz de restrição. Ele usa mais ou menos
+esses fases ali como prontidão. , pessoal, acho que seria isso aqui. Aqui algumas biografias écnicas ali
+para vocês procurarem,
+mas na internet vocês acham
+muita coisa sobre Lean,
+algumas coisas sobre LPS,
+mas ão nesse ível. Nesse ível, aí vocês êm que procurarem
+a terminal com esse treinamento
+ou alguns pagos
+que vocês vão encontrar a mesma coisa, pessoal. ão tem muita diferença
+do que conversou aqui, ão. E é isso. . Muito , Paulo. Parabéns. Pessoal, ficou alguma dúvida?
+Sei que estourou um pouquinho o tempo,
+mas acho que é por um motivo, é?
+Conteúdo riquíssimo. vai tirar foto, hein, pessoal?
+Vamos abrir aí
+para colocar foto lá no liquidinho. Isso aí. tira foto para ós aí, Marina. Quem puder abrir a câmera. Para de compartilhar,
+que aí ele aparece, é?
+Ah, á. Esse. Vou tirar o Léo aqui,
+que o Léo está aparecendo em. É. Um destaque. Um destaque. Oficinal destaque da terminal aí. O garoto propaganda. Pessoal, gostaram aí?
+Ficou alguma dúvida?
+Vocês podem me contatar. ão, ficou muito . O material enriquecedor aí, cara. E. O Daniel do Marquinhos,
+o que ele é o gerente?
+Tudo que fala com relação à cultura
+é extremamente relevante, é?
+Porque cultura é algo difícil de se mudar. E ós temos. , na minha visão,
+ós temos duas modelagens. Uma, que é a pessoal, é?
+Que é uma das mais difíceis
+que você tem de trabalhar na pessoa
+e a outra é a profissional
+que você consegue moldar
+a partir do método do processo
+com robustez, é?
+, isso eu vi muito presente
+aqui nesse material que você trouxe. ão só também isso,
+como também a questão da disciplina, é?
+Muito , cara. Gostei pra caramba. . Excelente. Parabéns. Obrigado aí pelo feedback. Agradecer a todos vocês aí
+que tiveram paciência
+e me coloque à disposição. Se vocês precisarem aí,
+pode contatar. está sempre para ajudar. Muito , Paulinho. Queria agradecer, cara. Em nome do PIMO,
+em nome da terminal também,
+sua disponibilidade. A todos os planejadores também
+agradecer a presença,
+a participação,
+a colaboração durante o evento. Agradecer ao DHO
+que nos apoiou aí
+para conseguir
+unir todo mundo nesse horário,
+organizar as agendas
+através do Edna e da Gabi. E, no geral, pessoal,
+esse é o primeiro treinamento, é, Paulinho?
+De muitos que vai ministrar
